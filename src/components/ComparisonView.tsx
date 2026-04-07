@@ -96,10 +96,10 @@ export default function ComparisonView() {
                   </span>
                   <div className="space-y-2">
                     <p className="text-[#e6e4df] text-xs">
-                      <span className="opacity-50">Faction A:</span> {war.belligerents?.allies.join(', ') || 'N/A'}
+                      <span className="opacity-50">Faction A:</span> {war.belligerents?.allies?.join(', ') || 'N/A'}
                     </p>
                     <p className="text-[#e6e4df] text-xs">
-                      <span className="opacity-50">Faction B:</span> {war.belligerents?.adversaries.join(', ') || 'N/A'}
+                      <span className="opacity-50">Faction B:</span> {war.belligerents?.adversaries?.join(', ') || 'N/A'}
                     </p>
                   </div>
                 </div>
