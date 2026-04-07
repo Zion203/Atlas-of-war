@@ -1,0 +1,84 @@
+[
+  {
+    "id": 20001,
+    "name": "Sample Interstate War",
+    "startYear": 1853,
+    "endYear": 1856,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "RUS",
+      "TUR",
+      "GBR",
+      "FRA"
+    ],
+    "casualties": 650000,
+    "description": "Sample Interstate War was a regional conflict fought between Russian Empire and Ottoman Empire, Great Britain, France.",
+    "belligerents": {
+      "allies": [
+        "Russian Empire"
+      ],
+      "adversaries": [
+        "Ottoman Empire",
+        "Great Britain",
+        "France"
+      ]
+    },
+    "outcome": "",
+    "arcs": [
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 39.345388,
+        "endLng": 34.508268,
+        "label": "Sample Interstate War"
+      },
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 54.402739,
+        "endLng": -2.116346,
+        "label": "Sample Interstate War"
+      },
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 46.696113,
+        "endLng": 2.552275,
+        "label": "Sample Interstate War"
+      }
+    ]
+  },
+  {
+    "id": 20002,
+    "name": "Sample Colonial War",
+    "startYear": 1899,
+    "endYear": 1902,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "ZAF"
+    ],
+    "casualties": 75000,
+    "description": "Sample Colonial War was a colonial conflict fought between United Kingdom and Boer Republics.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Boer Republics"
+      ]
+    },
+    "outcome": "",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": -29.708776,
+        "endLng": 23.665734,
+        "label": "Sample Colonial War"
+      }
+    ]
+  }
+]

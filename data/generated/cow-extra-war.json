@@ -1,0 +1,4362 @@
+[
+  {
+    "id": 20001,
+    "name": "Allied Bombardment of Algiers",
+    "startYear": 1816,
+    "endYear": 1816,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "NLD",
+      "GBR",
+      "DZA"
+    ],
+    "casualties": 142,
+    "description": "Allied Bombardment of Algiers was a colonial conflict fought between Netherlands, United Kingdom and Algeria.",
+    "belligerents": {
+      "allies": [
+        "Netherlands",
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Algeria"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 52.422211,
+        "startLng": 5.61144,
+        "endLat": 27.397406,
+        "endLng": 2.808241,
+        "label": "Allied Bombardment of Algiers"
+      }
+    ]
+  },
+  {
+    "id": 20002,
+    "name": "Ottoman-Wahhabi",
+    "startYear": 1816,
+    "endYear": 1818,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "TUR"
+    ],
+    "casualties": 13500,
+    "description": "Ottoman-Wahhabi was a colonial conflict fought between Ottoman Empire and Saudi Wahhabis.",
+    "belligerents": {
+      "allies": [
+        "Ottoman Empire"
+      ],
+      "adversaries": [
+        "Saudi Wahhabis"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20003,
+    "name": "Liberation of Chile",
+    "startYear": 1817,
+    "endYear": 1818,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ESP"
+    ],
+    "casualties": 1700,
+    "description": "Liberation of Chile was a colonial conflict fought between Spain and San Martin revolutionaries.",
+    "belligerents": {
+      "allies": [
+        "Spain"
+      ],
+      "adversaries": [
+        "San Martin revolutionaries"
+      ]
+    },
+    "outcome": "2",
+    "arcs": []
+  },
+  {
+    "id": 20004,
+    "name": "First Bolivar Expedition",
+    "startYear": 1817,
+    "endYear": 1819,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ESP"
+    ],
+    "casualties": 3000,
+    "description": "First Bolivar Expedition was a colonial conflict fought between Spain and New Granada.",
+    "belligerents": {
+      "allies": [
+        "Spain"
+      ],
+      "adversaries": [
+        "New Granada"
+      ]
+    },
+    "outcome": "2",
+    "arcs": []
+  },
+  {
+    "id": 20005,
+    "name": "Mexican Independence",
+    "startYear": 1817,
+    "endYear": 1818,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ESP"
+    ],
+    "casualties": 1000,
+    "description": "Mexican Independence was a colonial conflict fought between Spain and Mina Expedition.",
+    "belligerents": {
+      "allies": [
+        "Spain"
+      ],
+      "adversaries": [
+        "Mina Expedition"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20006,
+    "name": "British-Kandyan",
+    "startYear": 1817,
+    "endYear": 1818,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 1000,
+    "description": "British-Kandyan was a colonial conflict fought between United Kingdom and Kandyan rebels.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Kandyan rebels"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20007,
+    "name": "British-Maratha",
+    "startYear": 1817,
+    "endYear": 1818,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 2800,
+    "description": "British-Maratha was a colonial conflict fought between United Kingdom and Marathas.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Marathas"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20008,
+    "name": "Ottoman Conquest of Sudan",
+    "startYear": 1820,
+    "endYear": 1821,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "TUR"
+    ],
+    "casualties": 4000,
+    "description": "Ottoman Conquest of Sudan was a colonial conflict fought between Ottoman Empire and Sudan states.",
+    "belligerents": {
+      "allies": [
+        "Ottoman Empire"
+      ],
+      "adversaries": [
+        "Sudan states"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20009,
+    "name": "Second Bolivar Expedition",
+    "startYear": 1821,
+    "endYear": 1822,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ESP"
+    ],
+    "casualties": 1000,
+    "description": "Second Bolivar Expedition was a colonial conflict fought between Spain and New Granada.",
+    "belligerents": {
+      "allies": [
+        "Spain"
+      ],
+      "adversaries": [
+        "New Granada"
+      ]
+    },
+    "outcome": "2",
+    "arcs": []
+  },
+  {
+    "id": 20010,
+    "name": "Turco-Persian",
+    "startYear": 1821,
+    "endYear": 1822,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "TUR"
+    ],
+    "casualties": 1000,
+    "description": "Turco-Persian was a colonial conflict fought between Ottoman Empire and Persia.",
+    "belligerents": {
+      "allies": [
+        "Ottoman Empire"
+      ],
+      "adversaries": [
+        "Persia"
+      ]
+    },
+    "outcome": "6",
+    "arcs": []
+  },
+  {
+    "id": 20011,
+    "name": "First British-Burmese",
+    "startYear": 1823,
+    "endYear": 1826,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "MMR"
+    ],
+    "casualties": 15000,
+    "description": "First British-Burmese was a colonial conflict fought between United Kingdom and Burma.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Burma"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": 21.573855,
+        "endLng": 95.804497,
+        "label": "First British-Burmese"
+      }
+    ]
+  },
+  {
+    "id": 20012,
+    "name": "First British-Ashanti",
+    "startYear": 1824,
+    "endYear": 1826,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 1400,
+    "description": "First British-Ashanti was a colonial conflict fought between United Kingdom and Ashanti-Ghana.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Ashanti-Ghana"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20013,
+    "name": "Liberation of Peru",
+    "startYear": 1824,
+    "endYear": 1825,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ESP"
+    ],
+    "casualties": 2000,
+    "description": "Liberation of Peru was a colonial conflict fought between Spain and Latin American revolutionaries.",
+    "belligerents": {
+      "allies": [
+        "Spain"
+      ],
+      "adversaries": [
+        "Latin American revolutionaries"
+      ]
+    },
+    "outcome": "2",
+    "arcs": []
+  },
+  {
+    "id": 20014,
+    "name": "Dutch - Javanese",
+    "startYear": 1825,
+    "endYear": 1830,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "NLD"
+    ],
+    "casualties": 15000,
+    "description": "Dutch - Javanese was a colonial conflict fought between Netherlands and Javanese rebels.",
+    "belligerents": {
+      "allies": [
+        "Netherlands"
+      ],
+      "adversaries": [
+        "Javanese rebels"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20015,
+    "name": "British-Bharatpuran",
+    "startYear": 1825,
+    "endYear": 1826,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 400,
+    "description": "British-Bharatpuran was a colonial conflict fought between United Kingdom and Bharatpuran rebels.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Bharatpuran rebels"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20016,
+    "name": "Brazil-Argentine",
+    "startYear": 1826,
+    "endYear": 1828,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "BRA",
+      "ARG"
+    ],
+    "casualties": 4000,
+    "description": "Brazil-Argentine was a colonial conflict fought between Brazil and Argentina.",
+    "belligerents": {
+      "allies": [
+        "Brazil"
+      ],
+      "adversaries": [
+        "Argentina"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": -12.098687,
+        "startLng": -49.55945,
+        "endLat": -33.501159,
+        "endLng": -64.173331,
+        "label": "Brazil-Argentine"
+      }
+    ]
+  },
+  {
+    "id": 20017,
+    "name": "Russo-Persian",
+    "startYear": 1826,
+    "endYear": 1828,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "RUS"
+    ],
+    "casualties": 5000,
+    "description": "Russo-Persian was a colonial conflict fought between Russia and Persia.",
+    "belligerents": {
+      "allies": [
+        "Russia"
+      ],
+      "adversaries": [
+        "Persia"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20018,
+    "name": "Spanish Reconquest of Mexico",
+    "startYear": 1829,
+    "endYear": 1829,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ESP",
+      "MEX"
+    ],
+    "casualties": 1700,
+    "description": "Spanish Reconquest of Mexico was a colonial conflict fought between Spain and Mexico.",
+    "belligerents": {
+      "allies": [
+        "Spain"
+      ],
+      "adversaries": [
+        "Mexico"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 40.090953,
+        "startLng": -3.464718,
+        "endLat": 23.919988,
+        "endLng": -102.289448,
+        "label": "Spanish Reconquest of Mexico"
+      }
+    ]
+  },
+  {
+    "id": 20019,
+    "name": "French Occupation of Algiers",
+    "startYear": 1830,
+    "endYear": 1830,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "DZA"
+    ],
+    "casualties": 600,
+    "description": "French Occupation of Algiers was a colonial conflict fought between France and Algeria.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Algeria"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 27.397406,
+        "endLng": 2.808241,
+        "label": "French Occupation of Algiers"
+      }
+    ]
+  },
+  {
+    "id": 20020,
+    "name": "Ottoman-Bilmez-Asiri War",
+    "startYear": 1832,
+    "endYear": 1837,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "TUR"
+    ],
+    "casualties": -9,
+    "description": "Ottoman-Bilmez-Asiri War was a colonial conflict fought between Ottoman Empire and Bilmez-Asiri.",
+    "belligerents": {
+      "allies": [
+        "Ottoman Empire"
+      ],
+      "adversaries": [
+        "Bilmez-Asiri"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20021,
+    "name": "First British-Zulu",
+    "startYear": 1838,
+    "endYear": 1838,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 800,
+    "description": "First British-Zulu was a colonial conflict fought between United Kingdom and Zulu tribe.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Zulu tribe"
+      ]
+    },
+    "outcome": "2",
+    "arcs": []
+  },
+  {
+    "id": 20022,
+    "name": "First British-Afghan",
+    "startYear": 1839,
+    "endYear": 1842,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "AFG"
+    ],
+    "casualties": 20000,
+    "description": "First British-Afghan was a colonial conflict fought between United Kingdom and Afghanistan.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Afghanistan"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": 34.164262,
+        "endLng": 66.496586,
+        "label": "First British-Afghan"
+      }
+    ]
+  },
+  {
+    "id": 20023,
+    "name": "First Opium",
+    "startYear": 1839,
+    "endYear": 1842,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "CHN"
+    ],
+    "casualties": 450,
+    "description": "First Opium was a colonial conflict fought between United Kingdom and China.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "China"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": 32.498178,
+        "endLng": 106.337289,
+        "label": "First Opium"
+      }
+    ]
+  },
+  {
+    "id": 20024,
+    "name": "First Franco-Algerian",
+    "startYear": 1839,
+    "endYear": 1847,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 15000,
+    "description": "First Franco-Algerian was a colonial conflict fought between France and Algerian forces.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Algerian forces"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20025,
+    "name": "Peru-Bolivian",
+    "startYear": 1841,
+    "endYear": 1841,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "PER",
+      "BOL"
+    ],
+    "casualties": 600,
+    "description": "Peru-Bolivian was a colonial conflict fought between Peru and Bolivia.",
+    "belligerents": {
+      "allies": [
+        "Peru"
+      ],
+      "adversaries": [
+        "Bolivia"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": -12.976679,
+        "startLng": -72.90016,
+        "endLat": -16.666015,
+        "endLng": -64.593433,
+        "label": "Peru-Bolivian"
+      }
+    ]
+  },
+  {
+    "id": 20026,
+    "name": "British-Sind",
+    "startYear": 1843,
+    "endYear": 1843,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 200,
+    "description": "British-Sind was a colonial conflict fought between United Kingdom and Sind.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Sind"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20027,
+    "name": "Uruguay War",
+    "startYear": 1843,
+    "endYear": 1851,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ARG",
+      "URY",
+      "GBR",
+      "FRA"
+    ],
+    "casualties": 2500,
+    "description": "Uruguay War was a colonial conflict fought between Argentina and Uruguay, United Kingdom, France.",
+    "belligerents": {
+      "allies": [
+        "Argentina"
+      ],
+      "adversaries": [
+        "Uruguay",
+        "United Kingdom",
+        "France"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": -33.501159,
+        "startLng": -64.173331,
+        "endLat": -32.961127,
+        "endLng": -55.966942,
+        "label": "Uruguay War"
+      },
+      {
+        "startLat": -33.501159,
+        "startLng": -64.173331,
+        "endLat": 54.402739,
+        "endLng": -2.116346,
+        "label": "Uruguay War"
+      },
+      {
+        "startLat": -33.501159,
+        "startLng": -64.173331,
+        "endLat": 46.696113,
+        "endLng": 2.552275,
+        "label": "Uruguay War"
+      }
+    ]
+  },
+  {
+    "id": 20028,
+    "name": "Gwalior",
+    "startYear": 1843,
+    "endYear": 1843,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 106,
+    "description": "Gwalior was a colonial conflict fought between United Kingdom and Gwalior.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Gwalior"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20029,
+    "name": "Franco-Moroccan",
+    "startYear": 1844,
+    "endYear": 1844,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "MAR"
+    ],
+    "casualties": 200,
+    "description": "Franco-Moroccan was a colonial conflict fought between France and Morocco.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Morocco"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 31.650723,
+        "endLng": -7.187296,
+        "label": "Franco-Moroccan"
+      }
+    ]
+  },
+  {
+    "id": 20030,
+    "name": "First British-Sikh",
+    "startYear": 1845,
+    "endYear": 1846,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 1500,
+    "description": "First British-Sikh was a colonial conflict fought between United Kingdom and Sikhs.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Sikhs"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20031,
+    "name": "Cracow Revolt",
+    "startYear": 1846,
+    "endYear": 1846,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "RUS",
+      "AUT"
+    ],
+    "casualties": 982,
+    "description": "Cracow Revolt was a colonial conflict fought between Russia, Prussia, Austria and Cracow.",
+    "belligerents": {
+      "allies": [
+        "Russia",
+        "Prussia",
+        "Austria"
+      ],
+      "adversaries": [
+        "Cracow"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 47.518859,
+        "endLng": 14.130515,
+        "label": "Cracow Revolt"
+      }
+    ]
+  },
+  {
+    "id": 20032,
+    "name": "First British-Xhosa",
+    "startYear": 1846,
+    "endYear": 1847,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 1000,
+    "description": "First British-Xhosa was a colonial conflict fought between United Kingdom and Khosa.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Khosa"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20033,
+    "name": "First Dutch-Bali",
+    "startYear": 1848,
+    "endYear": 1848,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "NLD"
+    ],
+    "casualties": 300,
+    "description": "First Dutch-Bali was a colonial conflict fought between Netherlands and Bali.",
+    "belligerents": {
+      "allies": [
+        "Netherlands"
+      ],
+      "adversaries": [
+        "Bali"
+      ]
+    },
+    "outcome": "6",
+    "arcs": []
+  },
+  {
+    "id": 20034,
+    "name": "Second British-Sikh",
+    "startYear": 1848,
+    "endYear": 1849,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 1500,
+    "description": "Second British-Sikh was a colonial conflict fought between United Kingdom and Sikhs.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Sikhs"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20035,
+    "name": "Chinese Pirates",
+    "startYear": 1849,
+    "endYear": 1849,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 0,
+    "description": "Chinese Pirates was a colonial conflict fought between United Kingdom and Chinese Pirates.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Chinese Pirates"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20036,
+    "name": "Second British-Xhosa",
+    "startYear": 1850,
+    "endYear": 1852,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 1400,
+    "description": "Second British-Xhosa was a colonial conflict fought between United Kingdom and Xhosa.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Xhosa"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20037,
+    "name": "Ottoman-Yam",
+    "startYear": 1851,
+    "endYear": 1851,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "TUR",
+      "EGY"
+    ],
+    "casualties": -9,
+    "description": "Ottoman-Yam was a colonial conflict fought between Turkey, Ottoman Empire, Egypt and Yam.",
+    "belligerents": {
+      "allies": [
+        "Turkey",
+        "Ottoman Empire",
+        "Egypt"
+      ],
+      "adversaries": [
+        "Yam"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 26.186173,
+        "endLng": 29.445837,
+        "label": "Ottoman-Yam"
+      }
+    ]
+  },
+  {
+    "id": 20038,
+    "name": "Second British-Burmese",
+    "startYear": 1852,
+    "endYear": 1852,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "MMR"
+    ],
+    "casualties": 400,
+    "description": "Second British-Burmese was a colonial conflict fought between United Kingdom and Burma.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Burma"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": 21.573855,
+        "endLng": 95.804497,
+        "label": "Second British-Burmese"
+      }
+    ]
+  },
+  {
+    "id": 20039,
+    "name": "French-Tukulor War",
+    "startYear": 1854,
+    "endYear": 1857,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 100,
+    "description": "French-Tukulor War was a colonial conflict fought between France and Tukulor.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Tukulor"
+      ]
+    },
+    "outcome": "6",
+    "arcs": []
+  },
+  {
+    "id": 20040,
+    "name": "British-Santal",
+    "startYear": 1855,
+    "endYear": 1856,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": -9,
+    "description": "British-Santal was a colonial conflict fought between United Kingdom and Santal.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Santal"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20041,
+    "name": "Hodeida Seige",
+    "startYear": 1856,
+    "endYear": 1856,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "TUR"
+    ],
+    "casualties": 1700,
+    "description": "Hodeida Seige was a colonial conflict fought between Ottoman Empire and Beni Aseer tribe.",
+    "belligerents": {
+      "allies": [
+        "Ottoman Empire"
+      ],
+      "adversaries": [
+        "Beni Aseer tribe"
+      ]
+    },
+    "outcome": "6",
+    "arcs": []
+  },
+  {
+    "id": 20042,
+    "name": "Second Opium",
+    "startYear": 1856,
+    "endYear": 1860,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "FRA",
+      "CHN"
+    ],
+    "casualties": 300,
+    "description": "Second Opium was a colonial conflict fought between United Kingdom, France and China.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom",
+        "France"
+      ],
+      "adversaries": [
+        "China"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": 32.498178,
+        "endLng": 106.337289,
+        "label": "Second Opium"
+      }
+    ]
+  },
+  {
+    "id": 20043,
+    "name": "French Conquest of Kabylia",
+    "startYear": 1856,
+    "endYear": 1857,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 1000,
+    "description": "French Conquest of Kabylia was a colonial conflict fought between France and Kabylia.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Kabylia"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20044,
+    "name": "Indian Mutiny",
+    "startYear": 1857,
+    "endYear": 1859,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 11000,
+    "description": "Indian Mutiny was a colonial conflict fought between United Kingdom and Indian sepoys.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Indian sepoys"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20045,
+    "name": "First Franco-Vietnamese",
+    "startYear": 1858,
+    "endYear": 1862,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "VNM"
+    ],
+    "casualties": 1500,
+    "description": "First Franco-Vietnamese was a colonial conflict fought between France and Vietnam.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Vietnam"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 21.715416,
+        "endLng": 105.387292,
+        "label": "First Franco-Vietnamese"
+      }
+    ]
+  },
+  {
+    "id": 20046,
+    "name": "Netherlands-Bone",
+    "startYear": 1859,
+    "endYear": 1860,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "NLD"
+    ],
+    "casualties": 500,
+    "description": "Netherlands-Bone was a colonial conflict fought between Netherlands and Bone.",
+    "belligerents": {
+      "allies": [
+        "Netherlands"
+      ],
+      "adversaries": [
+        "Bone"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20047,
+    "name": "Argentine-Buenos Aires",
+    "startYear": 1859,
+    "endYear": 1859,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ARG"
+    ],
+    "casualties": 500,
+    "description": "Argentine-Buenos Aires was a colonial conflict fought between Argentina and Buenos Aires.",
+    "belligerents": {
+      "allies": [
+        "Argentina"
+      ],
+      "adversaries": [
+        "Buenos Aires"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20048,
+    "name": "Garibaldi Expedition",
+    "startYear": 1860,
+    "endYear": 1860,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [],
+    "casualties": 4500,
+    "description": "Garibaldi Expedition was a colonial conflict fought between Two Sicilies and Red Shirts.",
+    "belligerents": {
+      "allies": [
+        "Two Sicilies"
+      ],
+      "adversaries": [
+        "Red Shirts"
+      ]
+    },
+    "outcome": "4",
+    "arcs": []
+  },
+  {
+    "id": 20049,
+    "name": "Spanish-Santo Dominican",
+    "startYear": 1863,
+    "endYear": 1865,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ESP"
+    ],
+    "casualties": 28000,
+    "description": "Spanish-Santo Dominican was a colonial conflict fought between Spain and Santo Domingo.",
+    "belligerents": {
+      "allies": [
+        "Spain"
+      ],
+      "adversaries": [
+        "Santo Domingo"
+      ]
+    },
+    "outcome": "2",
+    "arcs": []
+  },
+  {
+    "id": 20050,
+    "name": "British-Maori",
+    "startYear": 1863,
+    "endYear": 1866,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 700,
+    "description": "British-Maori was a colonial conflict fought between United Kingdom and New Zealand Maori.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "New Zealand Maori"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20051,
+    "name": "Shimonoseki War",
+    "startYear": 1863,
+    "endYear": 1864,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "USA",
+      "GBR",
+      "NLD",
+      "FRA"
+    ],
+    "casualties": 26,
+    "description": "Shimonoseki War was a colonial conflict fought between United States, United Kingdom, Netherlands and Choshu Daimyo.",
+    "belligerents": {
+      "allies": [
+        "United States",
+        "United Kingdom",
+        "Netherlands",
+        "France"
+      ],
+      "adversaries": [
+        "Choshu Daimyo"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 39.538479,
+        "startLng": -97.482602,
+        "endLat": 54.402739,
+        "endLng": -2.116346,
+        "label": "Shimonoseki War"
+      },
+      {
+        "startLat": 39.538479,
+        "startLng": -97.482602,
+        "endLat": 52.422211,
+        "endLng": 5.61144,
+        "label": "Shimonoseki War"
+      },
+      {
+        "startLat": 39.538479,
+        "startLng": -97.482602,
+        "endLat": 46.696113,
+        "endLng": 2.552275,
+        "label": "Shimonoseki War"
+      }
+    ]
+  },
+  {
+    "id": 20052,
+    "name": "British Umbeyla Campaign",
+    "startYear": 1863,
+    "endYear": 1863,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 900,
+    "description": "British Umbeyla Campaign was a colonial conflict fought between United Kingdom and Pathan tribe.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Pathan tribe"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20053,
+    "name": "Russian-Kokand",
+    "startYear": 1864,
+    "endYear": 1865,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "RUS"
+    ],
+    "casualties": 120,
+    "description": "Russian-Kokand was a colonial conflict fought between Russia and Kokand.",
+    "belligerents": {
+      "allies": [
+        "Russia"
+      ],
+      "adversaries": [
+        "Kokand"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20054,
+    "name": "British-Bhutanese",
+    "startYear": 1865,
+    "endYear": 1865,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "BTN"
+    ],
+    "casualties": 100,
+    "description": "British-Bhutanese was a colonial conflict fought between United Kingdom and Bhutan.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Bhutan"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": 27.536685,
+        "endLng": 90.040294,
+        "label": "British-Bhutanese"
+      }
+    ]
+  },
+  {
+    "id": 20055,
+    "name": "Russian-Bukharan",
+    "startYear": 1866,
+    "endYear": 1866,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "RUS"
+    ],
+    "casualties": 100,
+    "description": "Russian-Bukharan was a colonial conflict fought between Russia and Bukhara.",
+    "belligerents": {
+      "allies": [
+        "Russia"
+      ],
+      "adversaries": [
+        "Bukhara"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20056,
+    "name": "British-Ethiopian",
+    "startYear": 1867,
+    "endYear": 1868,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 400,
+    "description": "British-Ethiopian was a colonial conflict fought between United Kingdom and Ethiopians.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Ethiopians"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20057,
+    "name": "First Spanish-Cuban",
+    "startYear": 1868,
+    "endYear": 1878,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ESP",
+      "CUB"
+    ],
+    "casualties": 100000,
+    "description": "First Spanish-Cuban was a colonial conflict fought between Spain and Cuba.",
+    "belligerents": {
+      "allies": [
+        "Spain"
+      ],
+      "adversaries": [
+        "Cuba"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 40.090953,
+        "startLng": -3.464718,
+        "endLat": 21.334024,
+        "endLng": -77.975855,
+        "label": "First Spanish-Cuban"
+      }
+    ]
+  },
+  {
+    "id": 20058,
+    "name": "Attack on Bahr el-Ghazal",
+    "startYear": 1869,
+    "endYear": 1870,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "EGY"
+    ],
+    "casualties": -9,
+    "description": "Attack on Bahr el-Ghazal was a colonial conflict fought between Egypt and Bahr el-Ghazal.",
+    "belligerents": {
+      "allies": [
+        "Egypt"
+      ],
+      "adversaries": [
+        "Bahr el-Ghazal"
+      ]
+    },
+    "outcome": "2",
+    "arcs": []
+  },
+  {
+    "id": 20059,
+    "name": "Ottoman Conquest of Arabia",
+    "startYear": 1870,
+    "endYear": 1872,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "TUR",
+      "YEM"
+    ],
+    "casualties": 4000,
+    "description": "Ottoman Conquest of Arabia was a colonial conflict fought between Ottoman Empire and Yemen, Asir, Hasa.",
+    "belligerents": {
+      "allies": [
+        "Ottoman Empire"
+      ],
+      "adversaries": [
+        "Yemen",
+        "Asir",
+        "Hasa"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 15.328226,
+        "endLng": 45.874383,
+        "label": "Ottoman Conquest of Arabia"
+      }
+    ]
+  },
+  {
+    "id": 20060,
+    "name": "Second Franco-Algerian",
+    "startYear": 1871,
+    "endYear": 1872,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "DZA"
+    ],
+    "casualties": 2686,
+    "description": "Second Franco-Algerian was a colonial conflict fought between France and Algeria.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Algeria"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 27.397406,
+        "endLng": 2.808241,
+        "label": "Second Franco-Algerian"
+      }
+    ]
+  },
+  {
+    "id": 20061,
+    "name": "Second British-Ashanti",
+    "startYear": 1873,
+    "endYear": 1874,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 100,
+    "description": "Second British-Ashanti was a colonial conflict fought between United Kingdom and Ashanti.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Ashanti"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20062,
+    "name": "Second Franco-Vietnamese",
+    "startYear": 1873,
+    "endYear": 1874,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "VNM"
+    ],
+    "casualties": 400,
+    "description": "Second Franco-Vietnamese was a colonial conflict fought between France and Vietnam.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Vietnam"
+      ]
+    },
+    "outcome": "3",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 21.715416,
+        "endLng": 105.387292,
+        "label": "Second Franco-Vietnamese"
+      }
+    ]
+  },
+  {
+    "id": 20063,
+    "name": "First Dutch-Achinese",
+    "startYear": 1873,
+    "endYear": 1878,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "NLD"
+    ],
+    "casualties": 12000,
+    "description": "First Dutch-Achinese was a colonial conflict fought between Netherlands and Aceh.",
+    "belligerents": {
+      "allies": [
+        "Netherlands"
+      ],
+      "adversaries": [
+        "Aceh"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20064,
+    "name": "Kokand Rebellion",
+    "startYear": 1875,
+    "endYear": 1876,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "RUS"
+    ],
+    "casualties": 100,
+    "description": "Kokand Rebellion was a colonial conflict fought between Russia and Kokand.",
+    "belligerents": {
+      "allies": [
+        "Russia"
+      ],
+      "adversaries": [
+        "Kokand"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20065,
+    "name": "Egyptian-Ethiopian",
+    "startYear": 1875,
+    "endYear": 1876,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "EGY",
+      "ETH"
+    ],
+    "casualties": 4250,
+    "description": "Egyptian-Ethiopian was a colonial conflict fought between Egypt and Ethiopia.",
+    "belligerents": {
+      "allies": [
+        "Egypt"
+      ],
+      "adversaries": [
+        "Ethiopia"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 26.186173,
+        "startLng": 29.445837,
+        "endLat": 8.032795,
+        "endLng": 39.0886,
+        "label": "Egyptian-Ethiopian"
+      }
+    ]
+  },
+  {
+    "id": 20066,
+    "name": "Serbian-Turkish",
+    "startYear": 1876,
+    "endYear": 1877,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "TUR",
+      "SRB",
+      "MNE"
+    ],
+    "casualties": -9,
+    "description": "Serbian-Turkish was a colonial conflict fought between Ottoman Empire and Serbia, Montenegro.",
+    "belligerents": {
+      "allies": [
+        "Ottoman Empire"
+      ],
+      "adversaries": [
+        "Serbia",
+        "Montenegro"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 44.189919,
+        "endLng": 20.787989,
+        "label": "Serbian-Turkish"
+      },
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 42.803101,
+        "endLng": 19.143727,
+        "label": "Serbian-Turkish"
+      }
+    ]
+  },
+  {
+    "id": 20067,
+    "name": "Third British-Xhosa",
+    "startYear": 1877,
+    "endYear": 1878,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 200,
+    "description": "Third British-Xhosa was a colonial conflict fought between United Kingdom and S. Africa Xhosa.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "S. Africa Xhosa"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20068,
+    "name": "Egypt-Sudanese Slavers",
+    "startYear": 1878,
+    "endYear": 1879,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "EGY"
+    ],
+    "casualties": -9,
+    "description": "Egypt-Sudanese Slavers was a colonial conflict fought between Egypt and Sudanese Slavers.",
+    "belligerents": {
+      "allies": [
+        "Egypt"
+      ],
+      "adversaries": [
+        "Sudanese Slavers"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20069,
+    "name": "Russo-Turkoman",
+    "startYear": 1878,
+    "endYear": 1881,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "RUS"
+    ],
+    "casualties": 2000,
+    "description": "Russo-Turkoman was a colonial conflict fought between Russia and Turkomans.",
+    "belligerents": {
+      "allies": [
+        "Russia"
+      ],
+      "adversaries": [
+        "Turkomans"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20070,
+    "name": "Austrian-Bosnian",
+    "startYear": 1878,
+    "endYear": 1878,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [],
+    "casualties": 3500,
+    "description": "Austrian-Bosnian was a colonial conflict fought between Austria-Hungary and Bosnia.",
+    "belligerents": {
+      "allies": [
+        "Austria-Hungary"
+      ],
+      "adversaries": [
+        "Bosnia"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20071,
+    "name": "Second British-Afghan",
+    "startYear": 1878,
+    "endYear": 1879,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "AFG"
+    ],
+    "casualties": 10000,
+    "description": "Second British-Afghan was a colonial conflict fought between United Kingdom and Afghanistan.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Afghanistan"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": 34.164262,
+        "endLng": 66.496586,
+        "label": "Second British-Afghan"
+      }
+    ]
+  },
+  {
+    "id": 20072,
+    "name": "Second British-Zulu",
+    "startYear": 1879,
+    "endYear": 1879,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 2500,
+    "description": "Second British-Zulu was a colonial conflict fought between United Kingdom and Zulu.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Zulu"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20073,
+    "name": "Gun War",
+    "startYear": 1880,
+    "endYear": 1881,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": -9,
+    "description": "Gun War was a colonial conflict fought between United Kingdom and Basuto.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Basuto"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20074,
+    "name": "First Boer War",
+    "startYear": 1880,
+    "endYear": 1881,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 900,
+    "description": "First Boer War was a colonial conflict fought between United Kingdom and Transvaal.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Transvaal"
+      ]
+    },
+    "outcome": "2",
+    "arcs": []
+  },
+  {
+    "id": 20075,
+    "name": "Franco-Tunisian",
+    "startYear": 1881,
+    "endYear": 1882,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "TUN"
+    ],
+    "casualties": 3500,
+    "description": "Franco-Tunisian was a colonial conflict fought between France and Tunisia.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Tunisia"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 33.687263,
+        "endLng": 9.007881,
+        "label": "Franco-Tunisian"
+      }
+    ]
+  },
+  {
+    "id": 20076,
+    "name": "First British-Mahdi",
+    "startYear": 1881,
+    "endYear": 1885,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "EGY",
+      "GBR"
+    ],
+    "casualties": 30000,
+    "description": "First British-Mahdi was a colonial conflict fought between Egypt, United Kingdom and Mahdist Empire.",
+    "belligerents": {
+      "allies": [
+        "Egypt",
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Mahdist Empire"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 26.186173,
+        "startLng": 29.445837,
+        "endLat": 54.402739,
+        "endLng": -2.116346,
+        "label": "First British-Mahdi"
+      }
+    ]
+  },
+  {
+    "id": 20077,
+    "name": "Third Franco-Vietnamese",
+    "startYear": 1882,
+    "endYear": 1884,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "VNM",
+      "CHN"
+    ],
+    "casualties": 5500,
+    "description": "Third Franco-Vietnamese was a colonial conflict fought between France and Vietnam, Black Flag, China.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Vietnam",
+        "Black Flag",
+        "China"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 21.715416,
+        "endLng": 105.387292,
+        "label": "Third Franco-Vietnamese"
+      },
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 32.498178,
+        "endLng": 106.337289,
+        "label": "Third Franco-Vietnamese"
+      }
+    ]
+  },
+  {
+    "id": 20078,
+    "name": "First Franco-Madagascan",
+    "startYear": 1883,
+    "endYear": 1885,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 300,
+    "description": "First Franco-Madagascan was a colonial conflict fought between France and Madagasar.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Madagasar"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20079,
+    "name": "Third British-Burmese",
+    "startYear": 1885,
+    "endYear": 1889,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "MMR"
+    ],
+    "casualties": 3000,
+    "description": "Third British-Burmese was a colonial conflict fought between United Kingdom and Burma.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Burma"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": 21.573855,
+        "endLng": 95.804497,
+        "label": "Third British-Burmese"
+      }
+    ]
+  },
+  {
+    "id": 20080,
+    "name": "French-Mandinka",
+    "startYear": 1885,
+    "endYear": 1886,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 1000,
+    "description": "French-Mandinka was a colonial conflict fought between France and Mandinka.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Mandinka"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20081,
+    "name": "Russo-Afghan",
+    "startYear": 1885,
+    "endYear": 1885,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "RUS",
+      "AFG"
+    ],
+    "casualties": 1000,
+    "description": "Russo-Afghan was a colonial conflict fought between Russia and Afghanistan.",
+    "belligerents": {
+      "allies": [
+        "Russia"
+      ],
+      "adversaries": [
+        "Afghanistan"
+      ]
+    },
+    "outcome": "3",
+    "arcs": [
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 34.164262,
+        "endLng": 66.496586,
+        "label": "Russo-Afghan"
+      }
+    ]
+  },
+  {
+    "id": 20082,
+    "name": "Serbian-Bulgarian",
+    "startYear": 1885,
+    "endYear": 1885,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "SRB",
+      "BGR"
+    ],
+    "casualties": 2000,
+    "description": "Serbian-Bulgarian was a colonial conflict fought between Serbia and Bulgaria.",
+    "belligerents": {
+      "allies": [
+        "Serbia"
+      ],
+      "adversaries": [
+        "Bulgaria"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 44.189919,
+        "startLng": 20.787989,
+        "endLat": 42.508785,
+        "endLng": 25.15709,
+        "label": "Serbian-Bulgarian"
+      }
+    ]
+  },
+  {
+    "id": 20083,
+    "name": "First Italian-Ethiopian",
+    "startYear": 1887,
+    "endYear": 1887,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ITA",
+      "ETH"
+    ],
+    "casualties": 1000,
+    "description": "First Italian-Ethiopian was a colonial conflict fought between Italy and Ethiopia.",
+    "belligerents": {
+      "allies": [
+        "Italy"
+      ],
+      "adversaries": [
+        "Ethiopia"
+      ]
+    },
+    "outcome": "3",
+    "arcs": [
+      {
+        "startLat": 44.732482,
+        "startLng": 11.076907,
+        "endLat": 8.032795,
+        "endLng": 39.0886,
+        "label": "First Italian-Ethiopian"
+      }
+    ]
+  },
+  {
+    "id": 20084,
+    "name": "Zambezi Conquest",
+    "startYear": 1888,
+    "endYear": 1888,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "PRT"
+    ],
+    "casualties": -9,
+    "description": "Zambezi Conquest was a colonial conflict fought between Portugal and Prazero da Cruz.",
+    "belligerents": {
+      "allies": [
+        "Portugal"
+      ],
+      "adversaries": [
+        "Prazero da Cruz"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20085,
+    "name": "First Franco-Dahomeyan",
+    "startYear": 1890,
+    "endYear": 1890,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 200,
+    "description": "First Franco-Dahomeyan was a colonial conflict fought between France and Dahomey.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Dahomey"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20086,
+    "name": "Franco-Jolof",
+    "startYear": 1890,
+    "endYear": 1891,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 100,
+    "description": "Franco-Jolof was a colonial conflict fought between France and Jolof, Tukulor.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Jolof",
+        "Tukulor"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20087,
+    "name": "Second Franco-Dahomeyan",
+    "startYear": 1892,
+    "endYear": 1893,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 80,
+    "description": "Second Franco-Dahomeyan was a colonial conflict fought between France and Dahomey.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Dahomey"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20088,
+    "name": "Belgian-Tib",
+    "startYear": 1892,
+    "endYear": 1894,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "BEL"
+    ],
+    "casualties": 7000,
+    "description": "Belgian-Tib was a colonial conflict fought between Belgium and Tippu Tib Empire.",
+    "belligerents": {
+      "allies": [
+        "Belgium"
+      ],
+      "adversaries": [
+        "Tippu Tib Empire"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20089,
+    "name": "Third British-Ashanti",
+    "startYear": 1893,
+    "endYear": 1894,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 200,
+    "description": "Third British-Ashanti was a colonial conflict fought between United Kingdom and Ashanti.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Ashanti"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20090,
+    "name": "Melilla War",
+    "startYear": 1893,
+    "endYear": 1894,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ESP"
+    ],
+    "casualties": 1000,
+    "description": "Melilla War was a colonial conflict fought between Spain and Rif tribes.",
+    "belligerents": {
+      "allies": [
+        "Spain"
+      ],
+      "adversaries": [
+        "Rif tribes"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20091,
+    "name": "Mahdist-Italian",
+    "startYear": 1893,
+    "endYear": 1894,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ITA"
+    ],
+    "casualties": 270,
+    "description": "Mahdist-Italian was a colonial conflict fought between Italy and Mahdist Empire.",
+    "belligerents": {
+      "allies": [
+        "Italy"
+      ],
+      "adversaries": [
+        "Mahdist Empire"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20092,
+    "name": "Second Franco-Madagascan",
+    "startYear": 1894,
+    "endYear": 1895,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 6000,
+    "description": "Second Franco-Madagascan was a colonial conflict fought between France and Madagasar.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Madagasar"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20093,
+    "name": "Second Dutch-Bali",
+    "startYear": 1894,
+    "endYear": 1894,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "NLD"
+    ],
+    "casualties": 1000,
+    "description": "Second Dutch-Bali was a colonial conflict fought between Netherlands and Bali.",
+    "belligerents": {
+      "allies": [
+        "Netherlands"
+      ],
+      "adversaries": [
+        "Bali"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20094,
+    "name": "Portuguese-Gaza Empire",
+    "startYear": 1895,
+    "endYear": 1895,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "PRT"
+    ],
+    "casualties": 50,
+    "description": "Portuguese-Gaza Empire was a colonial conflict fought between Portugal and Gaza Empire.",
+    "belligerents": {
+      "allies": [
+        "Portugal"
+      ],
+      "adversaries": [
+        "Gaza Empire"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20095,
+    "name": "Second Spanish-Cuban",
+    "startYear": 1895,
+    "endYear": 1898,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ESP",
+      "CUB"
+    ],
+    "casualties": 59000,
+    "description": "Second Spanish-Cuban was a colonial conflict fought between Spain and Cuba.",
+    "belligerents": {
+      "allies": [
+        "Spain"
+      ],
+      "adversaries": [
+        "Cuba"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": 40.090953,
+        "startLng": -3.464718,
+        "endLat": 21.334024,
+        "endLng": -77.975855,
+        "label": "Second Spanish-Cuban"
+      }
+    ]
+  },
+  {
+    "id": 20096,
+    "name": "Japan-Taiwanese",
+    "startYear": 1895,
+    "endYear": 1895,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "JPN"
+    ],
+    "casualties": 4800,
+    "description": "Japan-Taiwanese was a colonial conflict fought between Japan and Taiwanese.",
+    "belligerents": {
+      "allies": [
+        "Japan"
+      ],
+      "adversaries": [
+        "Taiwanese"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20097,
+    "name": "Mazrui Rebellion",
+    "startYear": 1895,
+    "endYear": 1896,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 200,
+    "description": "Mazrui Rebellion was a colonial conflict fought between United Kingdom and Mazrui clan of Kenya.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Mazrui clan of Kenya"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20098,
+    "name": "Second Italian-Ethiopian",
+    "startYear": 1895,
+    "endYear": 1896,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ITA",
+      "ETH"
+    ],
+    "casualties": 9000,
+    "description": "Second Italian-Ethiopian was a colonial conflict fought between Italy and Ethiopia.",
+    "belligerents": {
+      "allies": [
+        "Italy"
+      ],
+      "adversaries": [
+        "Ethiopia"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 44.732482,
+        "startLng": 11.076907,
+        "endLat": 8.032795,
+        "endLng": 39.0886,
+        "label": "Second Italian-Ethiopian"
+      }
+    ]
+  },
+  {
+    "id": 20099,
+    "name": "Second British-Mahdi",
+    "startYear": 1896,
+    "endYear": 1899,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 1200,
+    "description": "Second British-Mahdi was a colonial conflict fought between United Kingdom and Mahdist Empire.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Mahdist Empire"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20100,
+    "name": "Spanish-Philippine",
+    "startYear": 1896,
+    "endYear": 1898,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ESP",
+      "PHL"
+    ],
+    "casualties": 4000,
+    "description": "Spanish-Philippine was a colonial conflict fought between Spain and Philippines.",
+    "belligerents": {
+      "allies": [
+        "Spain"
+      ],
+      "adversaries": [
+        "Philippines"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": 40.090953,
+        "startLng": -3.464718,
+        "endLat": 11.198,
+        "endLng": 122.465,
+        "label": "Spanish-Philippine"
+      }
+    ]
+  },
+  {
+    "id": 20101,
+    "name": "British-South Nigerian",
+    "startYear": 1897,
+    "endYear": 1897,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "NGA"
+    ],
+    "casualties": 20,
+    "description": "British-South Nigerian was a colonial conflict fought between United Kingdom and Nigeria.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Nigeria"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": 9.439799,
+        "endLng": 7.50322,
+        "label": "British-South Nigerian"
+      }
+    ]
+  },
+  {
+    "id": 20102,
+    "name": "British-Pathan",
+    "startYear": 1897,
+    "endYear": 1898,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 1100,
+    "description": "British-Pathan was a colonial conflict fought between United Kingdom and Pathans.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Pathans"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20103,
+    "name": "Hut Tax",
+    "startYear": 1898,
+    "endYear": 1898,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 400,
+    "description": "Hut Tax was a colonial conflict fought between United Kingdom and Sierra Leone rebels.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Sierra Leone rebels"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20104,
+    "name": "American-Philippine",
+    "startYear": 1899,
+    "endYear": 1902,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "USA",
+      "PHL"
+    ],
+    "casualties": 4500,
+    "description": "American-Philippine was a colonial conflict fought between United States of America and Philippines.",
+    "belligerents": {
+      "allies": [
+        "United States of America"
+      ],
+      "adversaries": [
+        "Philippines"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 39.538479,
+        "startLng": -97.482602,
+        "endLat": 11.198,
+        "endLng": 122.465,
+        "label": "American-Philippine"
+      }
+    ]
+  },
+  {
+    "id": 20105,
+    "name": "French Conquest of Chad",
+    "startYear": 1899,
+    "endYear": 1900,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 125,
+    "description": "French Conquest of Chad was a colonial conflict fought between France and Rabih az-Zubayr.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Rabih az-Zubayr"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20106,
+    "name": "Second Boer War",
+    "startYear": 1899,
+    "endYear": 1902,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "ZAF"
+    ],
+    "casualties": 22000,
+    "description": "Second Boer War was a colonial conflict fought between United Kingdom and Boer Republics.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Boer Republics"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": -29.708776,
+        "endLng": 23.665734,
+        "label": "Second Boer War"
+      }
+    ]
+  },
+  {
+    "id": 20107,
+    "name": "Last Ashanti War",
+    "startYear": 1900,
+    "endYear": 1900,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 1000,
+    "description": "Last Ashanti War was a colonial conflict fought between United Kingdom and Ashanti.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Ashanti"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20108,
+    "name": "Somali Rebellion",
+    "startYear": 1901,
+    "endYear": 1904,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "ETH"
+    ],
+    "casualties": 391,
+    "description": "Somali Rebellion was a colonial conflict fought between United Kingdom, Ethiopia and Mohammad Abdullah Hassan�s Dervishes.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom",
+        "Ethiopia"
+      ],
+      "adversaries": [
+        "Mohammad Abdullah Hassan�s Dervishes"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": 8.032795,
+        "endLng": 39.0886,
+        "label": "Somali Rebellion"
+      }
+    ]
+  },
+  {
+    "id": 20109,
+    "name": "Bailundu Revolt",
+    "startYear": 1902,
+    "endYear": 1903,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "PRT"
+    ],
+    "casualties": -9,
+    "description": "Bailundu Revolt was a colonial conflict fought between Portugal and Bailundu of Angola.",
+    "belligerents": {
+      "allies": [
+        "Portugal"
+      ],
+      "adversaries": [
+        "Bailundu of Angola"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20110,
+    "name": "Kuanhama Rebellion",
+    "startYear": 1902,
+    "endYear": 1904,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "PRT"
+    ],
+    "casualties": 2000,
+    "description": "Kuanhama Rebellion was a colonial conflict fought between Portugal and Kuanhama of Angola.",
+    "belligerents": {
+      "allies": [
+        "Portugal"
+      ],
+      "adversaries": [
+        "Kuanhama of Angola"
+      ]
+    },
+    "outcome": "6",
+    "arcs": []
+  },
+  {
+    "id": 20111,
+    "name": "British Conquest of Kano & Sokoto",
+    "startYear": 1903,
+    "endYear": 1903,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": -9,
+    "description": "British Conquest of Kano & Sokoto was a colonial conflict fought between United Kingdom and Kano & Sokoto.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Kano & Sokoto"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20112,
+    "name": "South West African Revolt",
+    "startYear": 1904,
+    "endYear": 1906,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "DEU"
+    ],
+    "casualties": 1800,
+    "description": "South West African Revolt was a colonial conflict fought between Germany and Herero & Nama.",
+    "belligerents": {
+      "allies": [
+        "Germany"
+      ],
+      "adversaries": [
+        "Herero & Nama"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20113,
+    "name": "Second Dutch-Achinese",
+    "startYear": 1904,
+    "endYear": 1907,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "NLD"
+    ],
+    "casualties": 13000,
+    "description": "Second Dutch-Achinese was a colonial conflict fought between Netherlands and Aceh.",
+    "belligerents": {
+      "allies": [
+        "Netherlands"
+      ],
+      "adversaries": [
+        "Aceh"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20114,
+    "name": "Younghusband Expedition",
+    "startYear": 1904,
+    "endYear": 1904,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 300,
+    "description": "Younghusband Expedition was a colonial conflict fought between United Kingdom and Tibet.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Tibet"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20115,
+    "name": "Maji-Maji Revolt",
+    "startYear": 1905,
+    "endYear": 1906,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "DEU"
+    ],
+    "casualties": 3440,
+    "description": "Maji-Maji Revolt was a colonial conflict fought between Germany and Maji-Maji in Tanganyika.",
+    "belligerents": {
+      "allies": [
+        "Germany"
+      ],
+      "adversaries": [
+        "Maji-Maji in Tanganyika"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20116,
+    "name": "Sokoto Uprising",
+    "startYear": 1906,
+    "endYear": 1906,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 80,
+    "description": "Sokoto Uprising was a colonial conflict fought between United Kingdom and Mahdist rebels.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Mahdist rebels"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20117,
+    "name": "Third British-Zulu",
+    "startYear": 1906,
+    "endYear": 1906,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 56,
+    "description": "Third British-Zulu was a colonial conflict fought between United Kingdom and Zulu.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Zulu"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20118,
+    "name": "Dembos War",
+    "startYear": 1907,
+    "endYear": 1910,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "PRT"
+    ],
+    "casualties": 100,
+    "description": "Dembos War was a colonial conflict fought between Portugal and Dembos.",
+    "belligerents": {
+      "allies": [
+        "Portugal"
+      ],
+      "adversaries": [
+        "Dembos"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20119,
+    "name": "Anti-Foreign Revolt",
+    "startYear": 1907,
+    "endYear": 1910,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 150,
+    "description": "Anti-Foreign Revolt was a colonial conflict fought between France and Sheikh Ma Al-Ainie.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Sheikh Ma Al-Ainie"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20120,
+    "name": "Japan-Korean Guerrillas",
+    "startYear": 1907,
+    "endYear": 1910,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "JPN"
+    ],
+    "casualties": 136,
+    "description": "Japan-Korean Guerrillas was a colonial conflict fought between Japan and Korea.",
+    "belligerents": {
+      "allies": [
+        "Japan"
+      ],
+      "adversaries": [
+        "Korea"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20121,
+    "name": "French Conquest of Wadai",
+    "startYear": 1909,
+    "endYear": 1911,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 4000,
+    "description": "French Conquest of Wadai was a colonial conflict fought between France and Wadai sultanate.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Wadai sultanate"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20122,
+    "name": "French-Berber",
+    "startYear": 1912,
+    "endYear": 1912,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 200,
+    "description": "French-Berber was a colonial conflict fought between France and Berbers.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Berbers"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20123,
+    "name": "First Sino-Tibetan",
+    "startYear": 1912,
+    "endYear": 1913,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "CHN"
+    ],
+    "casualties": 2000,
+    "description": "First Sino-Tibetan was a colonial conflict fought between China and Tibet.",
+    "belligerents": {
+      "allies": [
+        "China"
+      ],
+      "adversaries": [
+        "Tibet"
+      ]
+    },
+    "outcome": "2",
+    "arcs": []
+  },
+  {
+    "id": 20124,
+    "name": "Moroccan Berber",
+    "startYear": 1913,
+    "endYear": 1915,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "ESP"
+    ],
+    "casualties": 891,
+    "description": "Moroccan Berber was a colonial conflict fought between France, Spain and Berbers.",
+    "belligerents": {
+      "allies": [
+        "France",
+        "Spain"
+      ],
+      "adversaries": [
+        "Berbers"
+      ]
+    },
+    "outcome": "7",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 40.090953,
+        "endLng": -3.464718,
+        "label": "Moroccan Berber"
+      }
+    ]
+  },
+  {
+    "id": 20125,
+    "name": "Moro Rebellion",
+    "startYear": 1913,
+    "endYear": 1913,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "USA"
+    ],
+    "casualties": 50,
+    "description": "Moro Rebellion was a colonial conflict fought between United States and Moro.",
+    "belligerents": {
+      "allies": [
+        "United States"
+      ],
+      "adversaries": [
+        "Moro"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20126,
+    "name": "Second Sino-Tibetan",
+    "startYear": 1918,
+    "endYear": 1918,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "CHN"
+    ],
+    "casualties": 1000,
+    "description": "Second Sino-Tibetan was a colonial conflict fought between China and Tibet.",
+    "belligerents": {
+      "allies": [
+        "China"
+      ],
+      "adversaries": [
+        "Tibet"
+      ]
+    },
+    "outcome": "6",
+    "arcs": []
+  },
+  {
+    "id": 20127,
+    "name": "Caco Revolt",
+    "startYear": 1918,
+    "endYear": 1920,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "USA"
+    ],
+    "casualties": 98,
+    "description": "Caco Revolt was a colonial conflict fought between United States and Caco Rebels.",
+    "belligerents": {
+      "allies": [
+        "United States"
+      ],
+      "adversaries": [
+        "Caco Rebels"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20128,
+    "name": "Third British-Afghan",
+    "startYear": 1919,
+    "endYear": 1919,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "AFG"
+    ],
+    "casualties": 1136,
+    "description": "Third British-Afghan was a colonial conflict fought between United Kingdom and Afghanistan.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Afghanistan"
+      ]
+    },
+    "outcome": "3",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": 34.164262,
+        "endLng": 66.496586,
+        "label": "Third British-Afghan"
+      }
+    ]
+  },
+  {
+    "id": 20129,
+    "name": "First British-Waziristan",
+    "startYear": 1919,
+    "endYear": 1920,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 800,
+    "description": "First British-Waziristan was a colonial conflict fought between United Kingdom and Waziristan.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Waziristan"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20130,
+    "name": "Franco-Syrian",
+    "startYear": 1920,
+    "endYear": 1920,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 3500,
+    "description": "Franco-Syrian was a colonial conflict fought between France and Syrians.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Syrians"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20131,
+    "name": "Iraqi-British",
+    "startYear": 1920,
+    "endYear": 1920,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "IRQ"
+    ],
+    "casualties": 1040,
+    "description": "Iraqi-British was a colonial conflict fought between United Kingdom and Iraq.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Iraq"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": 33.09403,
+        "endLng": 43.26181,
+        "label": "Iraqi-British"
+      }
+    ]
+  },
+  {
+    "id": 20132,
+    "name": "Conquest of Mongolia",
+    "startYear": 1920,
+    "endYear": 1921,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "RUS",
+      "CHN"
+    ],
+    "casualties": 3991,
+    "description": "Conquest of Mongolia was a colonial conflict fought between USSR, China and Baron von Ungern-Sternberg�s White army.",
+    "belligerents": {
+      "allies": [
+        "USSR",
+        "China"
+      ],
+      "adversaries": [
+        "Baron von Ungern-Sternberg�s White army"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 32.498178,
+        "endLng": 106.337289,
+        "label": "Conquest of Mongolia"
+      }
+    ]
+  },
+  {
+    "id": 20133,
+    "name": "Italian-Sanusi",
+    "startYear": 1923,
+    "endYear": 1931,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ITA"
+    ],
+    "casualties": 5000,
+    "description": "Italian-Sanusi was a colonial conflict fought between Italy and Sanusi tribe.",
+    "belligerents": {
+      "allies": [
+        "Italy"
+      ],
+      "adversaries": [
+        "Sanusi tribe"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20134,
+    "name": "Rif Rebellion",
+    "startYear": 1921,
+    "endYear": 1926,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "ESP"
+    ],
+    "casualties": 60000,
+    "description": "Rif Rebellion was a colonial conflict fought between France, Spain and Riffs.",
+    "belligerents": {
+      "allies": [
+        "France",
+        "Spain"
+      ],
+      "adversaries": [
+        "Riffs"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 40.090953,
+        "endLng": -3.464718,
+        "label": "Rif Rebellion"
+      }
+    ]
+  },
+  {
+    "id": 20135,
+    "name": "Moplah Rebellion",
+    "startYear": 1921,
+    "endYear": 1922,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 50,
+    "description": "Moplah Rebellion was a colonial conflict fought between United Kingdom and Muslim Moplahs.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Muslim Moplahs"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20136,
+    "name": "Franco-Druze",
+    "startYear": 1925,
+    "endYear": 1927,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 4000,
+    "description": "Franco-Druze was a colonial conflict fought between France and Druze.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Druze"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20137,
+    "name": "Yen Bai Uprising",
+    "startYear": 1930,
+    "endYear": 1931,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 1,
+    "description": "Yen Bai Uprising was a colonial conflict fought between France and Vietnamese Nationalists.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Vietnamese Nationalists"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20138,
+    "name": "Saya San's Rebellion",
+    "startYear": 1930,
+    "endYear": 1932,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 140,
+    "description": "Saya San's Rebellion was a colonial conflict fought between United Kingdom and Peasant Rebels.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Peasant Rebels"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20139,
+    "name": "British-Palestinian",
+    "startYear": 1936,
+    "endYear": 1936,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 126,
+    "description": "British-Palestinian was a colonial conflict fought between United Kingdom and Palestinians.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Palestinians"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20140,
+    "name": "Second British-Waziristan",
+    "startYear": 1936,
+    "endYear": 1938,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 200,
+    "description": "Second British-Waziristan was a colonial conflict fought between United Kingdom and Pathan tribes.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Pathan tribes"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20141,
+    "name": "Indonesian",
+    "startYear": 1945,
+    "endYear": 1946,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "NLD",
+      "IDN"
+    ],
+    "casualties": 1800,
+    "description": "Indonesian was a colonial conflict fought between United Kingdom, Netherlands and Indonesia.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom",
+        "Netherlands"
+      ],
+      "adversaries": [
+        "Indonesia"
+      ]
+    },
+    "outcome": "3",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": -0.954404,
+        "endLng": 101.892949,
+        "label": "Indonesian"
+      }
+    ]
+  },
+  {
+    "id": 20142,
+    "name": "French-Indochina",
+    "startYear": 1946,
+    "endYear": 1954,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 94500,
+    "description": "French-Indochina was a colonial conflict fought between France and Vietminh.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Vietminh"
+      ]
+    },
+    "outcome": "2",
+    "arcs": []
+  },
+  {
+    "id": 20143,
+    "name": "Third Franco-Madagascan",
+    "startYear": 1947,
+    "endYear": 1948,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "MDG"
+    ],
+    "casualties": 1000,
+    "description": "Third Franco-Madagascan was a colonial conflict fought between France and Madagascar.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Madagascar"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": -18.628288,
+        "endLng": 46.704241,
+        "label": "Third Franco-Madagascan"
+      }
+    ]
+  },
+  {
+    "id": 20144,
+    "name": "Malayan Rebellion",
+    "startYear": 1948,
+    "endYear": 1957,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 2400,
+    "description": "Malayan Rebellion was a colonial conflict fought between United Kingdom and Malayan Communists.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Malayan Communists"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20145,
+    "name": "Indo-Hyderabad",
+    "startYear": 1948,
+    "endYear": 1948,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "IND"
+    ],
+    "casualties": 10,
+    "description": "Indo-Hyderabad was a colonial conflict fought between India and Hyderabad.",
+    "belligerents": {
+      "allies": [
+        "India"
+      ],
+      "adversaries": [
+        "Hyderabad"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20146,
+    "name": "Third Sino-Tibetan",
+    "startYear": 1950,
+    "endYear": 1950,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "CHN"
+    ],
+    "casualties": 10000,
+    "description": "Third Sino-Tibetan was a colonial conflict fought between China and Tibet.",
+    "belligerents": {
+      "allies": [
+        "China"
+      ],
+      "adversaries": [
+        "Tibet"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20147,
+    "name": "Franco-Tunisian",
+    "startYear": 1952,
+    "endYear": 1954,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "TUN"
+    ],
+    "casualties": 2000,
+    "description": "Franco-Tunisian was a colonial conflict fought between France and Tunisia.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Tunisia"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 33.687263,
+        "endLng": 9.007881,
+        "label": "Franco-Tunisian"
+      }
+    ]
+  },
+  {
+    "id": 20148,
+    "name": "British-Mau Mau",
+    "startYear": 1952,
+    "endYear": 1956,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "GBR"
+    ],
+    "casualties": 600,
+    "description": "British-Mau Mau was a colonial conflict fought between United Kingdom and Mau Mau.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Mau Mau"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20149,
+    "name": "Moroccan Independence",
+    "startYear": 1953,
+    "endYear": 1956,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "MAR"
+    ],
+    "casualties": 2000,
+    "description": "Moroccan Independence was a colonial conflict fought between France and Morocco.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Morocco"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 31.650723,
+        "endLng": -7.187296,
+        "label": "Moroccan Independence"
+      }
+    ]
+  },
+  {
+    "id": 20150,
+    "name": "Third Franco-Algerian",
+    "startYear": 1954,
+    "endYear": 1962,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "DZA"
+    ],
+    "casualties": 18000,
+    "description": "Third Franco-Algerian was a colonial conflict fought between France and Algeria.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Algeria"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 27.397406,
+        "endLng": 2.808241,
+        "label": "Third Franco-Algerian"
+      }
+    ]
+  },
+  {
+    "id": 20151,
+    "name": "French-Cameroon",
+    "startYear": 1957,
+    "endYear": 1958,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "FRA"
+    ],
+    "casualties": 1000,
+    "description": "French-Cameroon was a colonial conflict fought between France and UPC.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "UPC"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20152,
+    "name": "Angolan-Portuguese",
+    "startYear": 1961,
+    "endYear": 1974,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "PRT",
+      "AGO"
+    ],
+    "casualties": 4000,
+    "description": "Angolan-Portuguese was a colonial conflict fought between Portugal and Angola.",
+    "belligerents": {
+      "allies": [
+        "Portugal"
+      ],
+      "adversaries": [
+        "Angola"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": 39.606675,
+        "startLng": -8.271754,
+        "endLat": -12.182762,
+        "endLng": 17.984249,
+        "label": "Angolan-Portuguese"
+      }
+    ]
+  },
+  {
+    "id": 20153,
+    "name": "Mozambique-Portuguese",
+    "startYear": 1964,
+    "endYear": 1975,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "PRT",
+      "MOZ"
+    ],
+    "casualties": 3500,
+    "description": "Mozambique-Portuguese was a colonial conflict fought between Portugal and Mozambique.",
+    "belligerents": {
+      "allies": [
+        "Portugal"
+      ],
+      "adversaries": [
+        "Mozambique"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 39.606675,
+        "startLng": -8.271754,
+        "endLat": -13.94323,
+        "endLng": 37.83789,
+        "label": "Mozambique-Portuguese"
+      }
+    ]
+  },
+  {
+    "id": 20154,
+    "name": "East Timorese, Phase 2",
+    "startYear": 1975,
+    "endYear": 1976,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "IDN"
+    ],
+    "casualties": 12500,
+    "description": "East Timorese, Phase 2 was a colonial conflict fought between Indonesia and Fretilin & UDT.",
+    "belligerents": {
+      "allies": [
+        "Indonesia"
+      ],
+      "adversaries": [
+        "Fretilin & UDT"
+      ]
+    },
+    "outcome": "4",
+    "arcs": []
+  },
+  {
+    "id": 20155,
+    "name": "Namibian",
+    "startYear": 1975,
+    "endYear": 1988,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ZAF"
+    ],
+    "casualties": 1100,
+    "description": "Namibian was a colonial conflict fought between South Africa and SWAPO-Namibia.",
+    "belligerents": {
+      "allies": [
+        "South Africa"
+      ],
+      "adversaries": [
+        "SWAPO-Namibia"
+      ]
+    },
+    "outcome": "2",
+    "arcs": []
+  },
+  {
+    "id": 20156,
+    "name": "Western Saharan",
+    "startYear": 1975,
+    "endYear": 1983,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "MAR",
+      "MRT",
+      "DZA"
+    ],
+    "casualties": 12000,
+    "description": "Western Saharan was a colonial conflict fought between Morocco, Mauritania and Polisario, Algeria.",
+    "belligerents": {
+      "allies": [
+        "Morocco",
+        "Mauritania"
+      ],
+      "adversaries": [
+        "Polisario",
+        "Algeria"
+      ]
+    },
+    "outcome": "7",
+    "arcs": [
+      {
+        "startLat": 31.650723,
+        "startLng": -7.187296,
+        "endLat": 27.397406,
+        "endLng": 2.808241,
+        "label": "Western Saharan"
+      }
+    ]
+  },
+  {
+    "id": 20157,
+    "name": "Khmer Insurgency",
+    "startYear": 1979,
+    "endYear": 1989,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "VNM",
+      "KHM"
+    ],
+    "casualties": 40300,
+    "description": "Khmer Insurgency was a colonial conflict fought between Vietnam, Cambodia and Khmer Rouge.",
+    "belligerents": {
+      "allies": [
+        "Vietnam",
+        "Cambodia"
+      ],
+      "adversaries": [
+        "Khmer Rouge"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": 12.647584,
+        "endLng": 104.50487,
+        "label": "Khmer Insurgency"
+      }
+    ]
+  },
+  {
+    "id": 20158,
+    "name": "Soviet Quagmire",
+    "startYear": 1980,
+    "endYear": 1989,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "RUS",
+      "AFG"
+    ],
+    "casualties": 70000,
+    "description": "Soviet Quagmire was a colonial conflict fought between USSR, Afghanistan and Muhajadin.",
+    "belligerents": {
+      "allies": [
+        "USSR",
+        "Afghanistan"
+      ],
+      "adversaries": [
+        "Muhajadin"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 34.164262,
+        "endLng": 66.496586,
+        "label": "Soviet Quagmire"
+      }
+    ]
+  },
+  {
+    "id": 20159,
+    "name": "First PKK in Iraq",
+    "startYear": 1991,
+    "endYear": 1992,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "TUR"
+    ],
+    "casualties": 300,
+    "description": "First PKK in Iraq was a colonial conflict fought between Turkey and PKK in Iraq.",
+    "belligerents": {
+      "allies": [
+        "Turkey"
+      ],
+      "adversaries": [
+        "PKK in Iraq"
+      ]
+    },
+    "outcome": "6",
+    "arcs": []
+  },
+  {
+    "id": 20160,
+    "name": "Second PKK in Iraq",
+    "startYear": 1997,
+    "endYear": 1997,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "TUR"
+    ],
+    "casualties": 100,
+    "description": "Second PKK in Iraq was a colonial conflict fought between Turkey and PKK in Iraq.",
+    "belligerents": {
+      "allies": [
+        "Turkey"
+      ],
+      "adversaries": [
+        "PKK in Iraq"
+      ]
+    },
+    "outcome": "6",
+    "arcs": []
+  },
+  {
+    "id": 20161,
+    "name": "Al Aqsa Intifada",
+    "startYear": 2000,
+    "endYear": 2003,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "ISR"
+    ],
+    "casualties": 900,
+    "description": "Al Aqsa Intifada was a colonial conflict fought between Israel and Palestinians.",
+    "belligerents": {
+      "allies": [
+        "Israel"
+      ],
+      "adversaries": [
+        "Palestinians"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20162,
+    "name": "Iraqi Resistance",
+    "startYear": 2003,
+    "endYear": 2006,
+    "type": "colonial",
+    "era": "modern",
+    "countries": [
+      "AUS",
+      "USA",
+      "GBR",
+      "NLD",
+      "ESP",
+      "POL",
+      "ITA",
+      "UKR",
+      "IRQ",
+      "KOR"
+    ],
+    "casualties": 15017,
+    "description": "Iraqi Resistance was a colonial conflict fought between Australia, United States, United Kingdom and al-Qaeda & Iraqi resistence.",
+    "belligerents": {
+      "allies": [
+        "Australia",
+        "United States",
+        "United Kingdom",
+        "Netherlands",
+        "Spain",
+        "Poland",
+        "Italy",
+        "Ukraine",
+        "Iraq",
+        "Republic of Korea"
+      ],
+      "adversaries": [
+        "al-Qaeda & Iraqi resistence"
+      ]
+    },
+    "outcome": "5",
+    "arcs": [
+      {
+        "startLat": -24.129522,
+        "startLng": 134.04972,
+        "endLat": 39.538479,
+        "endLng": -97.482602,
+        "label": "Iraqi Resistance"
+      },
+      {
+        "startLat": -24.129522,
+        "startLng": 134.04972,
+        "endLat": 54.402739,
+        "endLng": -2.116346,
+        "label": "Iraqi Resistance"
+      },
+      {
+        "startLat": -24.129522,
+        "startLng": 134.04972,
+        "endLat": 52.422211,
+        "endLng": 5.61144,
+        "label": "Iraqi Resistance"
+      },
+      {
+        "startLat": -24.129522,
+        "startLng": 134.04972,
+        "endLat": 40.090953,
+        "endLng": -3.464718,
+        "label": "Iraqi Resistance"
+      },
+      {
+        "startLat": -24.129522,
+        "startLng": 134.04972,
+        "endLat": 51.990316,
+        "endLng": 19.490468,
+        "label": "Iraqi Resistance"
+      },
+      {
+        "startLat": -24.129522,
+        "startLng": 134.04972,
+        "endLat": 44.732482,
+        "endLng": 11.076907,
+        "label": "Iraqi Resistance"
+      },
+      {
+        "startLat": -24.129522,
+        "startLng": 134.04972,
+        "endLat": 49.724739,
+        "endLng": 32.140865,
+        "label": "Iraqi Resistance"
+      },
+      {
+        "startLat": -24.129522,
+        "startLng": 134.04972,
+        "endLat": 33.09403,
+        "endLng": 43.26181,
+        "label": "Iraqi Resistance"
+      },
+      {
+        "startLat": -24.129522,
+        "startLng": 134.04972,
+        "endLat": 36.384924,
+        "endLng": 128.129504,
+        "label": "Iraqi Resistance"
+      }
+    ]
+  }
+]

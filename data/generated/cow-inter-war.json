@@ -1,0 +1,3551 @@
+[
+  {
+    "id": 20001,
+    "name": "Franco-Spanish War",
+    "startYear": 1823,
+    "endYear": 1823,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "ESP"
+    ],
+    "casualties": 1000,
+    "description": "Franco-Spanish War was a regional conflict fought between France and Spain.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Spain"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 40.090953,
+        "endLng": -3.464718,
+        "label": "Franco-Spanish War"
+      }
+    ]
+  },
+  {
+    "id": 20002,
+    "name": "First Russo-Turkish",
+    "startYear": 1828,
+    "endYear": 1829,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "RUS",
+      "TUR"
+    ],
+    "casualties": 130000,
+    "description": "First Russo-Turkish was a regional conflict fought between Russia and Ottoman Empire.",
+    "belligerents": {
+      "allies": [
+        "Russia"
+      ],
+      "adversaries": [
+        "Ottoman Empire"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 39.345388,
+        "endLng": 34.508268,
+        "label": "First Russo-Turkish"
+      }
+    ]
+  },
+  {
+    "id": 20003,
+    "name": "Mexican-American",
+    "startYear": 1846,
+    "endYear": 1847,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "USA",
+      "MEX"
+    ],
+    "casualties": 19283,
+    "description": "Mexican-American was a regional conflict fought between United States of America and Mexico.",
+    "belligerents": {
+      "allies": [
+        "United States of America"
+      ],
+      "adversaries": [
+        "Mexico"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 39.538479,
+        "startLng": -97.482602,
+        "endLat": 23.919988,
+        "endLng": -102.289448,
+        "label": "Mexican-American"
+      }
+    ]
+  },
+  {
+    "id": 20004,
+    "name": "Austro-Sardinian",
+    "startYear": 1848,
+    "endYear": 1848,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "AUT",
+      "ITA"
+    ],
+    "casualties": 7527,
+    "description": "Austro-Sardinian was a regional conflict fought between Austria and Tuscany, Italy, Modena.",
+    "belligerents": {
+      "allies": [
+        "Austria"
+      ],
+      "adversaries": [
+        "Tuscany",
+        "Italy",
+        "Modena"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 47.518859,
+        "startLng": 14.130515,
+        "endLat": 44.732482,
+        "endLng": 11.076907,
+        "label": "Austro-Sardinian"
+      }
+    ]
+  },
+  {
+    "id": 20005,
+    "name": "First Schleswig-Holstein",
+    "startYear": 1848,
+    "endYear": 1848,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "DNK"
+    ],
+    "casualties": 6000,
+    "description": "First Schleswig-Holstein was a regional conflict fought between Prussia and Denmark.",
+    "belligerents": {
+      "allies": [
+        "Prussia"
+      ],
+      "adversaries": [
+        "Denmark"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 55.966965,
+        "startLng": 9.018163,
+        "endLat": 55.966965,
+        "endLng": 9.018163,
+        "label": "First Schleswig-Holstein"
+      }
+    ]
+  },
+  {
+    "id": 20006,
+    "name": "Roman Republic",
+    "startYear": 1849,
+    "endYear": 1849,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "AUT"
+    ],
+    "casualties": 2600,
+    "description": "Roman Republic was a regional conflict fought between France, Two Sicilies, Austria and Papal States.",
+    "belligerents": {
+      "allies": [
+        "France",
+        "Two Sicilies",
+        "Austria"
+      ],
+      "adversaries": [
+        "Papal States"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 47.518859,
+        "endLng": 14.130515,
+        "label": "Roman Republic"
+      }
+    ]
+  },
+  {
+    "id": 20007,
+    "name": "La Plata",
+    "startYear": 1851,
+    "endYear": 1852,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "BRA",
+      "ARG"
+    ],
+    "casualties": 1300,
+    "description": "La Plata was a regional conflict fought between Brazil and Argentina.",
+    "belligerents": {
+      "allies": [
+        "Brazil"
+      ],
+      "adversaries": [
+        "Argentina"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": -12.098687,
+        "startLng": -49.55945,
+        "endLat": -33.501159,
+        "endLng": -64.173331,
+        "label": "La Plata"
+      }
+    ]
+  },
+  {
+    "id": 20008,
+    "name": "Crimean",
+    "startYear": 1853,
+    "endYear": 1856,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "TUR",
+      "ITA",
+      "FRA",
+      "GBR",
+      "RUS"
+    ],
+    "casualties": 264200,
+    "description": "Crimean was a regional conflict fought between Turkey, Italy, France and Russia.",
+    "belligerents": {
+      "allies": [
+        "Turkey",
+        "Italy",
+        "France",
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Russia"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 58.249357,
+        "endLng": 44.686469,
+        "label": "Crimean"
+      }
+    ]
+  },
+  {
+    "id": 20009,
+    "name": "Anglo-Persian",
+    "startYear": 1856,
+    "endYear": 1857,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "IRN"
+    ],
+    "casualties": 2000,
+    "description": "Anglo-Persian was a regional conflict fought between United Kingdom and Iran.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Iran"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": 32.166225,
+        "endLng": 54.931495,
+        "label": "Anglo-Persian"
+      }
+    ]
+  },
+  {
+    "id": 20010,
+    "name": "Italian Unification",
+    "startYear": 1859,
+    "endYear": 1859,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "AUT"
+    ],
+    "casualties": 22500,
+    "description": "Italian Unification was a regional conflict fought between Sardinia/Piedmont, France and Austria.",
+    "belligerents": {
+      "allies": [
+        "Sardinia/Piedmont",
+        "France"
+      ],
+      "adversaries": [
+        "Austria"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 47.518859,
+        "endLng": 14.130515,
+        "label": "Italian Unification"
+      }
+    ]
+  },
+  {
+    "id": 20011,
+    "name": "First Spanish-Moroccan",
+    "startYear": 1859,
+    "endYear": 1860,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "ESP",
+      "MAR"
+    ],
+    "casualties": 10000,
+    "description": "First Spanish-Moroccan was a regional conflict fought between Spain and Morocco.",
+    "belligerents": {
+      "allies": [
+        "Spain"
+      ],
+      "adversaries": [
+        "Morocco"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 40.090953,
+        "startLng": -3.464718,
+        "endLat": 31.650723,
+        "endLng": -7.187296,
+        "label": "First Spanish-Moroccan"
+      }
+    ]
+  },
+  {
+    "id": 20012,
+    "name": "Italian-Roman",
+    "startYear": 1860,
+    "endYear": 1860,
+    "type": "regional",
+    "era": "modern",
+    "countries": [],
+    "casualties": 1000,
+    "description": "Italian-Roman was a regional conflict fought between Sardinia/Piedmont and Papal States.",
+    "belligerents": {
+      "allies": [
+        "Sardinia/Piedmont"
+      ],
+      "adversaries": [
+        "Papal States"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20013,
+    "name": "Neapolitan",
+    "startYear": 1860,
+    "endYear": 1861,
+    "type": "regional",
+    "era": "modern",
+    "countries": [],
+    "casualties": 1000,
+    "description": "Neapolitan was a regional conflict fought between Sardinia/Piedmont and Two Sicilies.",
+    "belligerents": {
+      "allies": [
+        "Sardinia/Piedmont"
+      ],
+      "adversaries": [
+        "Two Sicilies"
+      ]
+    },
+    "outcome": "2",
+    "arcs": []
+  },
+  {
+    "id": 20014,
+    "name": "Franco-Mexican",
+    "startYear": 1862,
+    "endYear": 1867,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "MEX",
+      "FRA"
+    ],
+    "casualties": 20000,
+    "description": "Franco-Mexican was a regional conflict fought between Mexico and France.",
+    "belligerents": {
+      "allies": [
+        "Mexico"
+      ],
+      "adversaries": [
+        "France"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": 23.919988,
+        "startLng": -102.289448,
+        "endLat": 46.696113,
+        "endLng": 2.552275,
+        "label": "Franco-Mexican"
+      }
+    ]
+  },
+  {
+    "id": 20015,
+    "name": "Ecuadorian-Colombian",
+    "startYear": 1863,
+    "endYear": 1863,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "COL",
+      "ECU"
+    ],
+    "casualties": 1000,
+    "description": "Ecuadorian-Colombian was a regional conflict fought between Colombia and Ecuador.",
+    "belligerents": {
+      "allies": [
+        "Colombia"
+      ],
+      "adversaries": [
+        "Ecuador"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 3.373111,
+        "startLng": -73.174347,
+        "endLat": -1.259076,
+        "endLng": -78.188375,
+        "label": "Ecuadorian-Colombian"
+      }
+    ]
+  },
+  {
+    "id": 20016,
+    "name": "Second Schleswig-Holstein",
+    "startYear": 1864,
+    "endYear": 1864,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "DEU",
+      "AUT",
+      "DNK"
+    ],
+    "casualties": 4481,
+    "description": "Second Schleswig-Holstein was a regional conflict fought between Germany, Austria and Denmark.",
+    "belligerents": {
+      "allies": [
+        "Germany",
+        "Austria"
+      ],
+      "adversaries": [
+        "Denmark"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 50.961733,
+        "startLng": 9.678348,
+        "endLat": 55.966965,
+        "endLng": 9.018163,
+        "label": "Second Schleswig-Holstein"
+      }
+    ]
+  },
+  {
+    "id": 20017,
+    "name": "Lopez",
+    "startYear": 1864,
+    "endYear": 1870,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "ARG",
+      "BRA",
+      "PRY"
+    ],
+    "casualties": 310000,
+    "description": "Lopez was a regional conflict fought between Argentina, Brazil and Paraguay.",
+    "belligerents": {
+      "allies": [
+        "Argentina",
+        "Brazil"
+      ],
+      "adversaries": [
+        "Paraguay"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": -33.501159,
+        "startLng": -64.173331,
+        "endLat": -21.674509,
+        "endLng": -60.146394,
+        "label": "Lopez"
+      }
+    ]
+  },
+  {
+    "id": 20018,
+    "name": "Naval War",
+    "startYear": 1865,
+    "endYear": 1866,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "CHL",
+      "PER",
+      "ESP"
+    ],
+    "casualties": 1000,
+    "description": "Naval War was a regional conflict fought between Chile, Peru and Spain.",
+    "belligerents": {
+      "allies": [
+        "Chile",
+        "Peru"
+      ],
+      "adversaries": [
+        "Spain"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": -38.151771,
+        "startLng": -72.318871,
+        "endLat": 40.090953,
+        "endLng": -3.464718,
+        "label": "Naval War"
+      }
+    ]
+  },
+  {
+    "id": 20019,
+    "name": "Seven Weeks",
+    "startYear": 1866,
+    "endYear": 1866,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "ITA",
+      "DEU",
+      "AUT"
+    ],
+    "casualties": 44100,
+    "description": "Seven Weeks was a regional conflict fought between Italy, Germany, Mecklenburg Schwerin and Hesse Grand Ducal, Wuerttemburg, Bavaria.",
+    "belligerents": {
+      "allies": [
+        "Italy",
+        "Germany",
+        "Mecklenburg Schwerin"
+      ],
+      "adversaries": [
+        "Hesse Grand Ducal",
+        "Wuerttemburg",
+        "Bavaria",
+        "Austria",
+        "Hesse Electoral",
+        "Saxony",
+        "Baden",
+        "Hanover"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 44.732482,
+        "startLng": 11.076907,
+        "endLat": 47.518859,
+        "endLng": 14.130515,
+        "label": "Seven Weeks"
+      }
+    ]
+  },
+  {
+    "id": 20020,
+    "name": "Franco-Prussian",
+    "startYear": 1870,
+    "endYear": 1871,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "DEU",
+      "FRA"
+    ],
+    "casualties": 204313,
+    "description": "Franco-Prussian was a regional conflict fought between Wuerttemburg, Baden, Germany and France.",
+    "belligerents": {
+      "allies": [
+        "Wuerttemburg",
+        "Baden",
+        "Germany",
+        "Bavaria"
+      ],
+      "adversaries": [
+        "France"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 50.961733,
+        "startLng": 9.678348,
+        "endLat": 46.696113,
+        "endLng": 2.552275,
+        "label": "Franco-Prussian"
+      }
+    ]
+  },
+  {
+    "id": 20021,
+    "name": "First Central American",
+    "startYear": 1876,
+    "endYear": 1876,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "GTM",
+      "SLV"
+    ],
+    "casualties": 4000,
+    "description": "First Central American was a regional conflict fought between Guatemala and El Salvador.",
+    "belligerents": {
+      "allies": [
+        "Guatemala"
+      ],
+      "adversaries": [
+        "El Salvador"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 14.982133,
+        "startLng": -90.497134,
+        "endLat": 13.685371,
+        "endLng": -88.890124,
+        "label": "First Central American"
+      }
+    ]
+  },
+  {
+    "id": 20022,
+    "name": "Second Russo-Turkish",
+    "startYear": 1877,
+    "endYear": 1878,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "RUS",
+      "TUR"
+    ],
+    "casualties": 285000,
+    "description": "Second Russo-Turkish was a regional conflict fought between Russia and Turkey.",
+    "belligerents": {
+      "allies": [
+        "Russia"
+      ],
+      "adversaries": [
+        "Turkey"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 39.345388,
+        "endLng": 34.508268,
+        "label": "Second Russo-Turkish"
+      }
+    ]
+  },
+  {
+    "id": 20023,
+    "name": "War of the Pacific",
+    "startYear": 1879,
+    "endYear": 1883,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "CHL",
+      "PER",
+      "BOL"
+    ],
+    "casualties": 13868,
+    "description": "War of the Pacific was a regional conflict fought between Chile and Peru, Bolivia.",
+    "belligerents": {
+      "allies": [
+        "Chile"
+      ],
+      "adversaries": [
+        "Peru",
+        "Bolivia"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": -38.151771,
+        "startLng": -72.318871,
+        "endLat": -12.976679,
+        "endLng": -72.90016,
+        "label": "War of the Pacific"
+      },
+      {
+        "startLat": -38.151771,
+        "startLng": -72.318871,
+        "endLat": -16.666015,
+        "endLng": -64.593433,
+        "label": "War of the Pacific"
+      }
+    ]
+  },
+  {
+    "id": 20024,
+    "name": "Conquest of Egypt",
+    "startYear": 1882,
+    "endYear": 1882,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "EGY"
+    ],
+    "casualties": 10079,
+    "description": "Conquest of Egypt was a regional conflict fought between United Kingdom and Egypt.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Egypt"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": 26.186173,
+        "endLng": 29.445837,
+        "label": "Conquest of Egypt"
+      }
+    ]
+  },
+  {
+    "id": 20025,
+    "name": "Sino-French",
+    "startYear": 1884,
+    "endYear": 1885,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "CHN"
+    ],
+    "casualties": 12100,
+    "description": "Sino-French was a regional conflict fought between France and China.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "China"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 32.498178,
+        "endLng": 106.337289,
+        "label": "Sino-French"
+      }
+    ]
+  },
+  {
+    "id": 20026,
+    "name": "Second Central American",
+    "startYear": 1885,
+    "endYear": 1885,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "SLV",
+      "GTM"
+    ],
+    "casualties": 1000,
+    "description": "Second Central American was a regional conflict fought between El Salvador and Guatemala.",
+    "belligerents": {
+      "allies": [
+        "El Salvador"
+      ],
+      "adversaries": [
+        "Guatemala"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 13.685371,
+        "startLng": -88.890124,
+        "endLat": 14.982133,
+        "endLng": -90.497134,
+        "label": "Second Central American"
+      }
+    ]
+  },
+  {
+    "id": 20027,
+    "name": "First Sino-Japanese",
+    "startYear": 1894,
+    "endYear": 1895,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "JPN",
+      "CHN"
+    ],
+    "casualties": 15000,
+    "description": "First Sino-Japanese was a regional conflict fought between Japan and China.",
+    "belligerents": {
+      "allies": [
+        "Japan"
+      ],
+      "adversaries": [
+        "China"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 36.142538,
+        "startLng": 138.44217,
+        "endLat": 32.498178,
+        "endLng": 106.337289,
+        "label": "First Sino-Japanese"
+      }
+    ]
+  },
+  {
+    "id": 20028,
+    "name": "Greco-Turkish",
+    "startYear": 1897,
+    "endYear": 1897,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "TUR",
+      "GRC"
+    ],
+    "casualties": 2000,
+    "description": "Greco-Turkish was a regional conflict fought between Turkey and Greece.",
+    "belligerents": {
+      "allies": [
+        "Turkey"
+      ],
+      "adversaries": [
+        "Greece"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 39.492763,
+        "endLng": 21.72568,
+        "label": "Greco-Turkish"
+      }
+    ]
+  },
+  {
+    "id": 20029,
+    "name": "Spanish-American",
+    "startYear": 1898,
+    "endYear": 1898,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "USA",
+      "ESP"
+    ],
+    "casualties": 3685,
+    "description": "Spanish-American was a regional conflict fought between United States of America and Spain.",
+    "belligerents": {
+      "allies": [
+        "United States of America"
+      ],
+      "adversaries": [
+        "Spain"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 39.538479,
+        "startLng": -97.482602,
+        "endLat": 40.090953,
+        "endLng": -3.464718,
+        "label": "Spanish-American"
+      }
+    ]
+  },
+  {
+    "id": 20030,
+    "name": "Boxer Rebellion",
+    "startYear": 1900,
+    "endYear": 1900,
+    "type": "world",
+    "era": "modern",
+    "countries": [
+      "RUS",
+      "JPN",
+      "USA",
+      "GBR",
+      "FRA",
+      "CHN"
+    ],
+    "casualties": 3003,
+    "description": "Boxer Rebellion was a world conflict fought between Russia, Japan, United States of America and China.",
+    "belligerents": {
+      "allies": [
+        "Russia",
+        "Japan",
+        "United States of America",
+        "United Kingdom",
+        "France"
+      ],
+      "adversaries": [
+        "China"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 32.498178,
+        "endLng": 106.337289,
+        "label": "Boxer Rebellion"
+      }
+    ]
+  },
+  {
+    "id": 20031,
+    "name": "Sino-Russian",
+    "startYear": 1900,
+    "endYear": 1900,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "RUS",
+      "CHN"
+    ],
+    "casualties": 4000,
+    "description": "Sino-Russian was a regional conflict fought between Russia and China.",
+    "belligerents": {
+      "allies": [
+        "Russia"
+      ],
+      "adversaries": [
+        "China"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 32.498178,
+        "endLng": 106.337289,
+        "label": "Sino-Russian"
+      }
+    ]
+  },
+  {
+    "id": 20032,
+    "name": "Russo-Japanese",
+    "startYear": 1904,
+    "endYear": 1905,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "JPN",
+      "RUS"
+    ],
+    "casualties": 151831,
+    "description": "Russo-Japanese was a regional conflict fought between Japan and Russia.",
+    "belligerents": {
+      "allies": [
+        "Japan"
+      ],
+      "adversaries": [
+        "Russia"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 36.142538,
+        "startLng": 138.44217,
+        "endLat": 58.249357,
+        "endLng": 44.686469,
+        "label": "Russo-Japanese"
+      }
+    ]
+  },
+  {
+    "id": 20033,
+    "name": "Third Central American",
+    "startYear": 1906,
+    "endYear": 1906,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "GTM",
+      "HND",
+      "SLV"
+    ],
+    "casualties": 1000,
+    "description": "Third Central American was a regional conflict fought between Guatemala and Honduras, El Salvador.",
+    "belligerents": {
+      "allies": [
+        "Guatemala"
+      ],
+      "adversaries": [
+        "Honduras",
+        "El Salvador"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 14.982133,
+        "startLng": -90.497134,
+        "endLat": 14.794801,
+        "endLng": -86.887604,
+        "label": "Third Central American"
+      },
+      {
+        "startLat": 14.982133,
+        "startLng": -90.497134,
+        "endLat": 13.685371,
+        "endLng": -88.890124,
+        "label": "Third Central American"
+      }
+    ]
+  },
+  {
+    "id": 20034,
+    "name": "Fourth Central American",
+    "startYear": 1907,
+    "endYear": 1907,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "NIC",
+      "SLV",
+      "HND"
+    ],
+    "casualties": 1000,
+    "description": "Fourth Central American was a regional conflict fought between Nicaragua and El Salvador, Honduras.",
+    "belligerents": {
+      "allies": [
+        "Nicaragua"
+      ],
+      "adversaries": [
+        "El Salvador",
+        "Honduras"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 12.670697,
+        "startLng": -85.069347,
+        "endLat": 13.685371,
+        "endLng": -88.890124,
+        "label": "Fourth Central American"
+      },
+      {
+        "startLat": 12.670697,
+        "startLng": -85.069347,
+        "endLat": 14.794801,
+        "endLng": -86.887604,
+        "label": "Fourth Central American"
+      }
+    ]
+  },
+  {
+    "id": 20035,
+    "name": "Second Spanish-Moroccan",
+    "startYear": 1909,
+    "endYear": 1910,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "ESP",
+      "MAR"
+    ],
+    "casualties": 10000,
+    "description": "Second Spanish-Moroccan was a regional conflict fought between Spain and Morocco.",
+    "belligerents": {
+      "allies": [
+        "Spain"
+      ],
+      "adversaries": [
+        "Morocco"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 40.090953,
+        "startLng": -3.464718,
+        "endLat": 31.650723,
+        "endLng": -7.187296,
+        "label": "Second Spanish-Moroccan"
+      }
+    ]
+  },
+  {
+    "id": 20036,
+    "name": "Italian-Turkish",
+    "startYear": 1911,
+    "endYear": 1912,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "ITA",
+      "TUR"
+    ],
+    "casualties": 20000,
+    "description": "Italian-Turkish was a regional conflict fought between Italy and Turkey.",
+    "belligerents": {
+      "allies": [
+        "Italy"
+      ],
+      "adversaries": [
+        "Turkey"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 44.732482,
+        "startLng": 11.076907,
+        "endLat": 39.345388,
+        "endLng": 34.508268,
+        "label": "Italian-Turkish"
+      }
+    ]
+  },
+  {
+    "id": 20037,
+    "name": "First Balkan",
+    "startYear": 1912,
+    "endYear": 1913,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "GRC",
+      "BGR",
+      "TUR"
+    ],
+    "casualties": 82000,
+    "description": "First Balkan was a regional conflict fought between Greece, Bulgaria, Yugoslavia and Turkey.",
+    "belligerents": {
+      "allies": [
+        "Greece",
+        "Bulgaria",
+        "Yugoslavia"
+      ],
+      "adversaries": [
+        "Turkey"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 39.492763,
+        "startLng": 21.72568,
+        "endLat": 39.345388,
+        "endLng": 34.508268,
+        "label": "First Balkan"
+      }
+    ]
+  },
+  {
+    "id": 20038,
+    "name": "Second Balkan",
+    "startYear": 1913,
+    "endYear": 1913,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "TUR",
+      "GRC",
+      "ROU",
+      "BGR"
+    ],
+    "casualties": 60500,
+    "description": "Second Balkan was a regional conflict fought between Turkey, Yugoslavia, Greece and Bulgaria.",
+    "belligerents": {
+      "allies": [
+        "Turkey",
+        "Yugoslavia",
+        "Greece",
+        "Romania"
+      ],
+      "adversaries": [
+        "Bulgaria"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 42.508785,
+        "endLng": 25.15709,
+        "label": "Second Balkan"
+      }
+    ]
+  },
+  {
+    "id": 20039,
+    "name": "World War I",
+    "startYear": 1914,
+    "endYear": 1918,
+    "type": "world",
+    "era": "modern",
+    "countries": [
+      "RUS",
+      "GBR",
+      "JPN",
+      "PRT",
+      "BEL",
+      "GRC",
+      "ROU",
+      "FRA",
+      "ITA",
+      "USA",
+      "BGR",
+      "TUR",
+      "DEU"
+    ],
+    "casualties": 8578031,
+    "description": "World War I was a world conflict fought between Yugoslavia, Russia, United Kingdom and Bulgaria, Turkey, Germany.",
+    "belligerents": {
+      "allies": [
+        "Yugoslavia",
+        "Russia",
+        "United Kingdom",
+        "Japan",
+        "Portugal",
+        "Belgium",
+        "Greece",
+        "Romania",
+        "France",
+        "Italy",
+        "United States of America"
+      ],
+      "adversaries": [
+        "Bulgaria",
+        "Turkey",
+        "Germany",
+        "Austria-Hungary"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 42.508785,
+        "endLng": 25.15709,
+        "label": "World War I"
+      },
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 39.345388,
+        "endLng": 34.508268,
+        "label": "World War I"
+      },
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 50.961733,
+        "endLng": 9.678348,
+        "label": "World War I"
+      }
+    ]
+  },
+  {
+    "id": 20040,
+    "name": "Estonian Liberation",
+    "startYear": 1918,
+    "endYear": 1920,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "EST",
+      "FIN",
+      "RUS"
+    ],
+    "casualties": 11750,
+    "description": "Estonian Liberation was a regional conflict fought between Estonia, Finland and Russia.",
+    "belligerents": {
+      "allies": [
+        "Estonia",
+        "Finland"
+      ],
+      "adversaries": [
+        "Russia"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 58.724865,
+        "startLng": 25.867126,
+        "endLat": 58.249357,
+        "endLng": 44.686469,
+        "label": "Estonian Liberation"
+      }
+    ]
+  },
+  {
+    "id": 20041,
+    "name": "Latvian Liberation",
+    "startYear": 1918,
+    "endYear": 1920,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "DEU",
+      "EST",
+      "LVA",
+      "RUS"
+    ],
+    "casualties": 13246,
+    "description": "Latvian Liberation was a regional conflict fought between Germany, Estonia, Latvia and Russia, Germany.",
+    "belligerents": {
+      "allies": [
+        "Germany",
+        "Estonia",
+        "Latvia"
+      ],
+      "adversaries": [
+        "Russia",
+        "Germany"
+      ]
+    },
+    "outcome": "8",
+    "arcs": [
+      {
+        "startLat": 50.961733,
+        "startLng": 9.678348,
+        "endLat": 58.249357,
+        "endLng": 44.686469,
+        "label": "Latvian Liberation"
+      },
+      {
+        "startLat": 50.961733,
+        "startLng": 9.678348,
+        "endLat": 50.961733,
+        "endLng": 9.678348,
+        "label": "Latvian Liberation"
+      }
+    ]
+  },
+  {
+    "id": 20042,
+    "name": "Russo-Polish",
+    "startYear": 1919,
+    "endYear": 1920,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "POL",
+      "RUS"
+    ],
+    "casualties": 100000,
+    "description": "Russo-Polish was a regional conflict fought between Poland and Russia.",
+    "belligerents": {
+      "allies": [
+        "Poland"
+      ],
+      "adversaries": [
+        "Russia"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 51.990316,
+        "startLng": 19.490468,
+        "endLat": 58.249357,
+        "endLng": 44.686469,
+        "label": "Russo-Polish"
+      }
+    ]
+  },
+  {
+    "id": 20043,
+    "name": "Hungarian Adversaries",
+    "startYear": 1919,
+    "endYear": 1919,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "ROU",
+      "HUN"
+    ],
+    "casualties": 11000,
+    "description": "Hungarian Adversaries was a regional conflict fought between Czechoslovakia, Romania and Hungary.",
+    "belligerents": {
+      "allies": [
+        "Czechoslovakia",
+        "Romania"
+      ],
+      "adversaries": [
+        "Hungary"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 45.733237,
+        "startLng": 24.972624,
+        "endLat": 47.086841,
+        "endLng": 19.447867,
+        "label": "Hungarian Adversaries"
+      }
+    ]
+  },
+  {
+    "id": 20044,
+    "name": "Second Greco-Turkish",
+    "startYear": 1919,
+    "endYear": 1922,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "TUR",
+      "GRC"
+    ],
+    "casualties": 50000,
+    "description": "Second Greco-Turkish was a regional conflict fought between Turkey and Greece.",
+    "belligerents": {
+      "allies": [
+        "Turkey"
+      ],
+      "adversaries": [
+        "Greece"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 39.492763,
+        "endLng": 21.72568,
+        "label": "Second Greco-Turkish"
+      }
+    ]
+  },
+  {
+    "id": 20045,
+    "name": "Franco-Turkish",
+    "startYear": 1919,
+    "endYear": 1921,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "TUR"
+    ],
+    "casualties": 40000,
+    "description": "Franco-Turkish was a regional conflict fought between France and Turkey.",
+    "belligerents": {
+      "allies": [
+        "France"
+      ],
+      "adversaries": [
+        "Turkey"
+      ]
+    },
+    "outcome": "3",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 39.345388,
+        "endLng": 34.508268,
+        "label": "Franco-Turkish"
+      }
+    ]
+  },
+  {
+    "id": 20046,
+    "name": "Lithuanian-Polish",
+    "startYear": 1920,
+    "endYear": 1920,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "POL",
+      "LTU"
+    ],
+    "casualties": 1000,
+    "description": "Lithuanian-Polish was a regional conflict fought between Poland and Lithuania.",
+    "belligerents": {
+      "allies": [
+        "Poland"
+      ],
+      "adversaries": [
+        "Lithuania"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 51.990316,
+        "startLng": 19.490468,
+        "endLat": 55.103703,
+        "endLng": 24.089932,
+        "label": "Lithuanian-Polish"
+      }
+    ]
+  },
+  {
+    "id": 20047,
+    "name": "Manchurian",
+    "startYear": 1929,
+    "endYear": 1929,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "RUS",
+      "CHN"
+    ],
+    "casualties": 3200,
+    "description": "Manchurian was a regional conflict fought between USSR and China.",
+    "belligerents": {
+      "allies": [
+        "USSR"
+      ],
+      "adversaries": [
+        "China"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 32.498178,
+        "endLng": 106.337289,
+        "label": "Manchurian"
+      }
+    ]
+  },
+  {
+    "id": 20048,
+    "name": "Second Sino-Japanese",
+    "startYear": 1931,
+    "endYear": 1933,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "JPN",
+      "CHN"
+    ],
+    "casualties": 60000,
+    "description": "Second Sino-Japanese was a regional conflict fought between Japan and China.",
+    "belligerents": {
+      "allies": [
+        "Japan"
+      ],
+      "adversaries": [
+        "China"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 36.142538,
+        "startLng": 138.44217,
+        "endLat": 32.498178,
+        "endLng": 106.337289,
+        "label": "Second Sino-Japanese"
+      }
+    ]
+  },
+  {
+    "id": 20049,
+    "name": "Chaco",
+    "startYear": 1932,
+    "endYear": 1935,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "PRY",
+      "BOL"
+    ],
+    "casualties": 92661,
+    "description": "Chaco was a regional conflict fought between Paraguay and Bolivia.",
+    "belligerents": {
+      "allies": [
+        "Paraguay"
+      ],
+      "adversaries": [
+        "Bolivia"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": -21.674509,
+        "startLng": -60.146394,
+        "endLat": -16.666015,
+        "endLng": -64.593433,
+        "label": "Chaco"
+      }
+    ]
+  },
+  {
+    "id": 20050,
+    "name": "Saudi-Yemeni",
+    "startYear": 1934,
+    "endYear": 1934,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "SAU"
+    ],
+    "casualties": 2100,
+    "description": "Saudi-Yemeni was a regional conflict fought between Saudi Arabia and Yemen Arab Republic.",
+    "belligerents": {
+      "allies": [
+        "Saudi Arabia"
+      ],
+      "adversaries": [
+        "Yemen Arab Republic"
+      ]
+    },
+    "outcome": "1",
+    "arcs": []
+  },
+  {
+    "id": 20051,
+    "name": "Conquest of Ethiopia",
+    "startYear": 1935,
+    "endYear": 1936,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "ITA",
+      "ETH"
+    ],
+    "casualties": 20000,
+    "description": "Conquest of Ethiopia was a regional conflict fought between Italy and Ethiopia.",
+    "belligerents": {
+      "allies": [
+        "Italy"
+      ],
+      "adversaries": [
+        "Ethiopia"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 44.732482,
+        "startLng": 11.076907,
+        "endLat": 8.032795,
+        "endLng": 39.0886,
+        "label": "Conquest of Ethiopia"
+      }
+    ]
+  },
+  {
+    "id": 20052,
+    "name": "Third Sino-Japanese",
+    "startYear": 1937,
+    "endYear": 1941,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "JPN",
+      "CHN"
+    ],
+    "casualties": 1000000,
+    "description": "Third Sino-Japanese was a regional conflict fought between Japan and China.",
+    "belligerents": {
+      "allies": [
+        "Japan"
+      ],
+      "adversaries": [
+        "China"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 36.142538,
+        "startLng": 138.44217,
+        "endLat": 32.498178,
+        "endLng": 106.337289,
+        "label": "Third Sino-Japanese"
+      }
+    ]
+  },
+  {
+    "id": 20053,
+    "name": "Changkufeng",
+    "startYear": 1938,
+    "endYear": 1938,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "JPN",
+      "RUS"
+    ],
+    "casualties": 1726,
+    "description": "Changkufeng was a regional conflict fought between Japan and USSR.",
+    "belligerents": {
+      "allies": [
+        "Japan"
+      ],
+      "adversaries": [
+        "USSR"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 36.142538,
+        "startLng": 138.44217,
+        "endLat": 58.249357,
+        "endLng": 44.686469,
+        "label": "Changkufeng"
+      }
+    ]
+  },
+  {
+    "id": 20054,
+    "name": "Nomonhan",
+    "startYear": 1939,
+    "endYear": 1939,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "RUS",
+      "MNG",
+      "JPN"
+    ],
+    "casualties": 28000,
+    "description": "Nomonhan was a regional conflict fought between USSR, Mongolia and Japan.",
+    "belligerents": {
+      "allies": [
+        "USSR",
+        "Mongolia"
+      ],
+      "adversaries": [
+        "Japan"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 36.142538,
+        "endLng": 138.44217,
+        "label": "Nomonhan"
+      }
+    ]
+  },
+  {
+    "id": 20055,
+    "name": "World War II",
+    "startYear": 1939,
+    "endYear": 1945,
+    "type": "world",
+    "era": "modern",
+    "countries": [
+      "BEL",
+      "NOR",
+      "CAN",
+      "USA",
+      "GBR",
+      "NLD",
+      "ROU",
+      "BGR",
+      "GRC",
+      "BRA",
+      "ITA",
+      "AUS",
+      "NZL",
+      "RUS",
+      "POL",
+      "FRA",
+      "MNG",
+      "CHN",
+      "ZAF",
+      "ETH",
+      "HUN",
+      "FIN",
+      "DEU",
+      "JPN"
+    ],
+    "casualties": 16634907,
+    "description": "World War II was a world conflict fought between Belgium, Yugoslavia, Norway and Hungary, France, Finland.",
+    "belligerents": {
+      "allies": [
+        "Belgium",
+        "Yugoslavia",
+        "Norway",
+        "Canada",
+        "United States of America",
+        "United Kingdom",
+        "Netherlands",
+        "Romania",
+        "Bulgaria",
+        "Greece",
+        "Brazil",
+        "Italy",
+        "Australia",
+        "New Zealand",
+        "USSR",
+        "Poland",
+        "France",
+        "Mongolia",
+        "China",
+        "South Africa",
+        "Ethiopia"
+      ],
+      "adversaries": [
+        "Hungary",
+        "France",
+        "Finland",
+        "Italy",
+        "Romania",
+        "Bulgaria",
+        "Germany",
+        "Japan"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 50.785392,
+        "startLng": 4.800448,
+        "endLat": 47.086841,
+        "endLng": 19.447867,
+        "label": "World War II"
+      },
+      {
+        "startLat": 50.785392,
+        "startLng": 4.800448,
+        "endLat": 46.696113,
+        "endLng": 2.552275,
+        "label": "World War II"
+      },
+      {
+        "startLat": 50.785392,
+        "startLng": 4.800448,
+        "endLat": 63.252361,
+        "endLng": 27.276449,
+        "label": "World War II"
+      },
+      {
+        "startLat": 50.785392,
+        "startLng": 4.800448,
+        "endLat": 44.732482,
+        "endLng": 11.076907,
+        "label": "World War II"
+      },
+      {
+        "startLat": 50.785392,
+        "startLng": 4.800448,
+        "endLat": 45.733237,
+        "endLng": 24.972624,
+        "label": "World War II"
+      },
+      {
+        "startLat": 50.785392,
+        "startLng": 4.800448,
+        "endLat": 42.508785,
+        "endLng": 25.15709,
+        "label": "World War II"
+      },
+      {
+        "startLat": 50.785392,
+        "startLng": 4.800448,
+        "endLat": 50.961733,
+        "endLng": 9.678348,
+        "label": "World War II"
+      },
+      {
+        "startLat": 50.785392,
+        "startLng": 4.800448,
+        "endLat": 36.142538,
+        "endLng": 138.44217,
+        "label": "World War II"
+      }
+    ]
+  },
+  {
+    "id": 20056,
+    "name": "Russo-Finnish",
+    "startYear": 1939,
+    "endYear": 1940,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "RUS",
+      "FIN"
+    ],
+    "casualties": 151798,
+    "description": "Russo-Finnish was a regional conflict fought between USSR and Finland.",
+    "belligerents": {
+      "allies": [
+        "USSR"
+      ],
+      "adversaries": [
+        "Finland"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 63.252361,
+        "endLng": 27.276449,
+        "label": "Russo-Finnish"
+      }
+    ]
+  },
+  {
+    "id": 20057,
+    "name": "Franco-Thai",
+    "startYear": 1940,
+    "endYear": 1941,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "THA",
+      "FRA"
+    ],
+    "casualties": 1400,
+    "description": "Franco-Thai was a regional conflict fought between Thailand and France.",
+    "belligerents": {
+      "allies": [
+        "Thailand"
+      ],
+      "adversaries": [
+        "France"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 15.45974,
+        "startLng": 101.073198,
+        "endLat": 46.696113,
+        "endLng": 2.552275,
+        "label": "Franco-Thai"
+      }
+    ]
+  },
+  {
+    "id": 20058,
+    "name": "First Kashmir",
+    "startYear": 1947,
+    "endYear": 1949,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "IND",
+      "PAK"
+    ],
+    "casualties": 3500,
+    "description": "First Kashmir was a regional conflict fought between India and Pakistan.",
+    "belligerents": {
+      "allies": [
+        "India"
+      ],
+      "adversaries": [
+        "Pakistan"
+      ]
+    },
+    "outcome": "6",
+    "arcs": [
+      {
+        "startLat": 22.686852,
+        "startLng": 79.358105,
+        "endLat": 29.328389,
+        "endLng": 68.545632,
+        "label": "First Kashmir"
+      }
+    ]
+  },
+  {
+    "id": 20059,
+    "name": "Arab-Israeli",
+    "startYear": 1948,
+    "endYear": 1948,
+    "type": "world",
+    "era": "modern",
+    "countries": [
+      "ISR",
+      "EGY",
+      "SYR",
+      "LBN",
+      "JOR",
+      "IRQ"
+    ],
+    "casualties": 8000,
+    "description": "Arab-Israeli was a world conflict fought between Israel and Egypt, Syria, Lebanon.",
+    "belligerents": {
+      "allies": [
+        "Israel"
+      ],
+      "adversaries": [
+        "Egypt",
+        "Syria",
+        "Lebanon",
+        "Jordan",
+        "Iraq"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 26.186173,
+        "endLng": 29.445837,
+        "label": "Arab-Israeli"
+      },
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 35.006636,
+        "endLng": 38.277783,
+        "label": "Arab-Israeli"
+      },
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 34.133368,
+        "endLng": 35.992892,
+        "label": "Arab-Israeli"
+      },
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 30.805025,
+        "endLng": 36.375991,
+        "label": "Arab-Israeli"
+      },
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 33.09403,
+        "endLng": 43.26181,
+        "label": "Arab-Israeli"
+      }
+    ]
+  },
+  {
+    "id": 20060,
+    "name": "Korean",
+    "startYear": 1950,
+    "endYear": 1953,
+    "type": "world",
+    "era": "modern",
+    "countries": [
+      "BEL",
+      "CAN",
+      "COL",
+      "GBR",
+      "NLD",
+      "GRC",
+      "FRA",
+      "TUR",
+      "PHL",
+      "THA",
+      "ETH",
+      "AUS",
+      "KOR",
+      "USA",
+      "CHN",
+      "PRK"
+    ],
+    "casualties": 910084,
+    "description": "Korean was a world conflict fought between Belgium, Canada, Colombia and China, North Korea.",
+    "belligerents": {
+      "allies": [
+        "Belgium",
+        "Canada",
+        "Colombia",
+        "United Kingdom",
+        "Netherlands",
+        "Greece",
+        "France",
+        "Turkey",
+        "Philippines",
+        "Thailand",
+        "Ethiopia",
+        "Australia",
+        "South Korea",
+        "United States of America"
+      ],
+      "adversaries": [
+        "China",
+        "North Korea"
+      ]
+    },
+    "outcome": "6",
+    "arcs": [
+      {
+        "startLat": 50.785392,
+        "startLng": 4.800448,
+        "endLat": 32.498178,
+        "endLng": 106.337289,
+        "label": "Korean"
+      },
+      {
+        "startLat": 50.785392,
+        "startLng": 4.800448,
+        "endLat": 39.885252,
+        "endLng": 126.444516,
+        "label": "Korean"
+      }
+    ]
+  },
+  {
+    "id": 20061,
+    "name": "Off-shore Islands",
+    "startYear": 1954,
+    "endYear": 1955,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "CHN",
+      "TWN"
+    ],
+    "casualties": 2370,
+    "description": "Off-shore Islands was a regional conflict fought between China and Taiwan.",
+    "belligerents": {
+      "allies": [
+        "China"
+      ],
+      "adversaries": [
+        "Taiwan"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 32.498178,
+        "startLng": 106.337289,
+        "endLat": 23.652408,
+        "endLng": 120.868204,
+        "label": "Off-shore Islands"
+      }
+    ]
+  },
+  {
+    "id": 20062,
+    "name": "Sinai War",
+    "startYear": 1956,
+    "endYear": 1956,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "ISR",
+      "GBR",
+      "EGY"
+    ],
+    "casualties": 3221,
+    "description": "Sinai War was a regional conflict fought between France, Israel, United Kingdom and Egypt.",
+    "belligerents": {
+      "allies": [
+        "France",
+        "Israel",
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Egypt"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 26.186173,
+        "endLng": 29.445837,
+        "label": "Sinai War"
+      }
+    ]
+  },
+  {
+    "id": 20063,
+    "name": "Soviet Invasion of Hungary",
+    "startYear": 1956,
+    "endYear": 1956,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "RUS",
+      "HUN"
+    ],
+    "casualties": 2426,
+    "description": "Soviet Invasion of Hungary was a regional conflict fought between USSR and Hungary.",
+    "belligerents": {
+      "allies": [
+        "USSR"
+      ],
+      "adversaries": [
+        "Hungary"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 58.249357,
+        "startLng": 44.686469,
+        "endLat": 47.086841,
+        "endLng": 19.447867,
+        "label": "Soviet Invasion of Hungary"
+      }
+    ]
+  },
+  {
+    "id": 20064,
+    "name": "IfniWar",
+    "startYear": 1957,
+    "endYear": 1958,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "FRA",
+      "ESP",
+      "MAR"
+    ],
+    "casualties": 1122,
+    "description": "IfniWar was a regional conflict fought between France, Spain and Morocco.",
+    "belligerents": {
+      "allies": [
+        "France",
+        "Spain"
+      ],
+      "adversaries": [
+        "Morocco"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 46.696113,
+        "startLng": 2.552275,
+        "endLat": 31.650723,
+        "endLng": -7.187296,
+        "label": "IfniWar"
+      }
+    ]
+  },
+  {
+    "id": 20065,
+    "name": "Taiwan Straits",
+    "startYear": 1958,
+    "endYear": 1958,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "CHN",
+      "TWN"
+    ],
+    "casualties": 1800,
+    "description": "Taiwan Straits was a regional conflict fought between China (PRC) and Taiwan (ROC).",
+    "belligerents": {
+      "allies": [
+        "China (PRC)"
+      ],
+      "adversaries": [
+        "Taiwan (ROC)"
+      ]
+    },
+    "outcome": "6",
+    "arcs": [
+      {
+        "startLat": 32.498178,
+        "startLng": 106.337289,
+        "endLat": 23.652408,
+        "endLng": 120.868204,
+        "label": "Taiwan Straits"
+      }
+    ]
+  },
+  {
+    "id": 20066,
+    "name": "Assam",
+    "startYear": 1962,
+    "endYear": 1962,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "CHN",
+      "IND"
+    ],
+    "casualties": 1853,
+    "description": "Assam was a regional conflict fought between China (PRC) and India.",
+    "belligerents": {
+      "allies": [
+        "China (PRC)"
+      ],
+      "adversaries": [
+        "India"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 32.498178,
+        "startLng": 106.337289,
+        "endLat": 22.686852,
+        "endLng": 79.358105,
+        "label": "Assam"
+      }
+    ]
+  },
+  {
+    "id": 20067,
+    "name": "Vietnam War, Phase 2",
+    "startYear": 1965,
+    "endYear": 1975,
+    "type": "world",
+    "era": "modern",
+    "countries": [
+      "VNM",
+      "USA",
+      "KHM",
+      "KOR",
+      "PHL",
+      "THA",
+      "AUS"
+    ],
+    "casualties": 1021442,
+    "description": "Vietnam War, Phase 2 was a world conflict fought between Vietnam and United States of America, Cambodia, South Korea.",
+    "belligerents": {
+      "allies": [
+        "Vietnam"
+      ],
+      "adversaries": [
+        "United States of America",
+        "Cambodia",
+        "South Korea",
+        "Philippines",
+        "South Vietnam",
+        "Thailand",
+        "Australia"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": 39.538479,
+        "endLng": -97.482602,
+        "label": "Vietnam War, Phase 2"
+      },
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": 12.647584,
+        "endLng": 104.50487,
+        "label": "Vietnam War, Phase 2"
+      },
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": 36.384924,
+        "endLng": 128.129504,
+        "label": "Vietnam War, Phase 2"
+      },
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": 11.198,
+        "endLng": 122.465,
+        "label": "Vietnam War, Phase 2"
+      },
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": 21.715416,
+        "endLng": 105.387292,
+        "label": "Vietnam War, Phase 2"
+      },
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": 15.45974,
+        "endLng": 101.073198,
+        "label": "Vietnam War, Phase 2"
+      },
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": -24.129522,
+        "endLng": 134.04972,
+        "label": "Vietnam War, Phase 2"
+      }
+    ]
+  },
+  {
+    "id": 20068,
+    "name": "Second Kashmir",
+    "startYear": 1965,
+    "endYear": 1965,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "PAK",
+      "IND"
+    ],
+    "casualties": 7061,
+    "description": "Second Kashmir was a regional conflict fought between Pakistan and India.",
+    "belligerents": {
+      "allies": [
+        "Pakistan"
+      ],
+      "adversaries": [
+        "India"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 29.328389,
+        "startLng": 68.545632,
+        "endLat": 22.686852,
+        "endLng": 79.358105,
+        "label": "Second Kashmir"
+      }
+    ]
+  },
+  {
+    "id": 20069,
+    "name": "Six Day War",
+    "startYear": 1967,
+    "endYear": 1967,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "ISR",
+      "EGY",
+      "JOR",
+      "SYR"
+    ],
+    "casualties": 19600,
+    "description": "Six Day War was a regional conflict fought between Israel and Egypt, Jordan, Syria.",
+    "belligerents": {
+      "allies": [
+        "Israel"
+      ],
+      "adversaries": [
+        "Egypt",
+        "Jordan",
+        "Syria"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 26.186173,
+        "endLng": 29.445837,
+        "label": "Six Day War"
+      },
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 30.805025,
+        "endLng": 36.375991,
+        "label": "Six Day War"
+      },
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 35.006636,
+        "endLng": 38.277783,
+        "label": "Six Day War"
+      }
+    ]
+  },
+  {
+    "id": 20070,
+    "name": "Second Laotian, Phase 2",
+    "startYear": 1968,
+    "endYear": 1973,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "VNM",
+      "USA",
+      "THA",
+      "LAO"
+    ],
+    "casualties": 13866,
+    "description": "Second Laotian, Phase 2 was a regional conflict fought between Vietnam and United States of America, Thailand, Laos.",
+    "belligerents": {
+      "allies": [
+        "Vietnam"
+      ],
+      "adversaries": [
+        "United States of America",
+        "Thailand",
+        "Laos"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": 39.538479,
+        "endLng": -97.482602,
+        "label": "Second Laotian, Phase 2"
+      },
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": 15.45974,
+        "endLng": 101.073198,
+        "label": "Second Laotian, Phase 2"
+      },
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": 19.431821,
+        "endLng": 102.533912,
+        "label": "Second Laotian, Phase 2"
+      }
+    ]
+  },
+  {
+    "id": 20071,
+    "name": "War of Attrition",
+    "startYear": 1969,
+    "endYear": 1970,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "ISR",
+      "EGY"
+    ],
+    "casualties": 5368,
+    "description": "War of Attrition was a regional conflict fought between Israel and Egypt.",
+    "belligerents": {
+      "allies": [
+        "Israel"
+      ],
+      "adversaries": [
+        "Egypt"
+      ]
+    },
+    "outcome": "6",
+    "arcs": [
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 26.186173,
+        "endLng": 29.445837,
+        "label": "War of Attrition"
+      }
+    ]
+  },
+  {
+    "id": 20072,
+    "name": "Football War",
+    "startYear": 1969,
+    "endYear": 1969,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "SLV",
+      "HND"
+    ],
+    "casualties": 1900,
+    "description": "Football War was a regional conflict fought between El Salvador and Honduras.",
+    "belligerents": {
+      "allies": [
+        "El Salvador"
+      ],
+      "adversaries": [
+        "Honduras"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 13.685371,
+        "startLng": -88.890124,
+        "endLat": 14.794801,
+        "endLng": -86.887604,
+        "label": "Football War"
+      }
+    ]
+  },
+  {
+    "id": 20073,
+    "name": "Communist Coalition",
+    "startYear": 1970,
+    "endYear": 1971,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "VNM",
+      "USA",
+      "KHM"
+    ],
+    "casualties": 6525,
+    "description": "Communist Coalition was a regional conflict fought between Vietnam and United States of America, Cambodia, South Vietnam.",
+    "belligerents": {
+      "allies": [
+        "Vietnam"
+      ],
+      "adversaries": [
+        "United States of America",
+        "Cambodia",
+        "South Vietnam"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": 39.538479,
+        "endLng": -97.482602,
+        "label": "Communist Coalition"
+      },
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": 12.647584,
+        "endLng": 104.50487,
+        "label": "Communist Coalition"
+      },
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": 21.715416,
+        "endLng": 105.387292,
+        "label": "Communist Coalition"
+      }
+    ]
+  },
+  {
+    "id": 20074,
+    "name": "Bangladesh",
+    "startYear": 1971,
+    "endYear": 1971,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "IND",
+      "PAK"
+    ],
+    "casualties": 11223,
+    "description": "Bangladesh was a regional conflict fought between India and Pakistan.",
+    "belligerents": {
+      "allies": [
+        "India"
+      ],
+      "adversaries": [
+        "Pakistan"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 22.686852,
+        "startLng": 79.358105,
+        "endLat": 29.328389,
+        "endLng": 68.545632,
+        "label": "Bangladesh"
+      }
+    ]
+  },
+  {
+    "id": 20075,
+    "name": "Yom Kippur War",
+    "startYear": 1973,
+    "endYear": 1973,
+    "type": "world",
+    "era": "modern",
+    "countries": [
+      "ISR",
+      "EGY",
+      "SAU",
+      "JOR",
+      "SYR",
+      "IRQ"
+    ],
+    "casualties": 14439,
+    "description": "Yom Kippur War was a world conflict fought between Israel and Egypt, Saudi Arabia, Jordan.",
+    "belligerents": {
+      "allies": [
+        "Israel"
+      ],
+      "adversaries": [
+        "Egypt",
+        "Saudi Arabia",
+        "Jordan",
+        "Syria",
+        "Iraq"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 26.186173,
+        "endLng": 29.445837,
+        "label": "Yom Kippur War"
+      },
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 23.806908,
+        "endLng": 44.6996,
+        "label": "Yom Kippur War"
+      },
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 30.805025,
+        "endLng": 36.375991,
+        "label": "Yom Kippur War"
+      },
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 35.006636,
+        "endLng": 38.277783,
+        "label": "Yom Kippur War"
+      },
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 33.09403,
+        "endLng": 43.26181,
+        "label": "Yom Kippur War"
+      }
+    ]
+  },
+  {
+    "id": 20076,
+    "name": "Turco-Cypriot",
+    "startYear": 1974,
+    "endYear": 1974,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "TUR",
+      "CYP"
+    ],
+    "casualties": 1500,
+    "description": "Turco-Cypriot was a regional conflict fought between Turkey and Cyprus.",
+    "belligerents": {
+      "allies": [
+        "Turkey"
+      ],
+      "adversaries": [
+        "Cyprus"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 34.913329,
+        "endLng": 33.084182,
+        "label": "Turco-Cypriot"
+      }
+    ]
+  },
+  {
+    "id": 20077,
+    "name": "War over Angola",
+    "startYear": 1975,
+    "endYear": 1976,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "CUB",
+      "AGO",
+      "ZAF",
+      "COD"
+    ],
+    "casualties": 2700,
+    "description": "War over Angola was a regional conflict fought between Cuba, Angola and South Africa, Democratic Republic of the Congo.",
+    "belligerents": {
+      "allies": [
+        "Cuba",
+        "Angola"
+      ],
+      "adversaries": [
+        "South Africa",
+        "Democratic Republic of the Congo"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": 21.334024,
+        "startLng": -77.975855,
+        "endLat": -29.708776,
+        "endLng": 23.665734,
+        "label": "War over Angola"
+      },
+      {
+        "startLat": 21.334024,
+        "startLng": -77.975855,
+        "endLat": -1.858167,
+        "endLng": 23.458829,
+        "label": "War over Angola"
+      }
+    ]
+  },
+  {
+    "id": 20078,
+    "name": "Second Ogaden War, Phase 2",
+    "startYear": 1977,
+    "endYear": 1978,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "ETH",
+      "CUB",
+      "SOM"
+    ],
+    "casualties": 10500,
+    "description": "Second Ogaden War, Phase 2 was a regional conflict fought between Ethiopia, Cuba and Somalia.",
+    "belligerents": {
+      "allies": [
+        "Ethiopia",
+        "Cuba"
+      ],
+      "adversaries": [
+        "Somalia"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": 8.032795,
+        "startLng": 39.0886,
+        "endLat": 3.568925,
+        "endLng": 45.19238,
+        "label": "Second Ogaden War, Phase 2"
+      }
+    ]
+  },
+  {
+    "id": 20079,
+    "name": "Vietnamese-Cambodian",
+    "startYear": 1977,
+    "endYear": 1979,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "VNM",
+      "KHM"
+    ],
+    "casualties": 8000,
+    "description": "Vietnamese-Cambodian was a regional conflict fought between Vietnam and Cambodia.",
+    "belligerents": {
+      "allies": [
+        "Vietnam"
+      ],
+      "adversaries": [
+        "Cambodia"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": 21.715416,
+        "startLng": 105.387292,
+        "endLat": 12.647584,
+        "endLng": 104.50487,
+        "label": "Vietnamese-Cambodian"
+      }
+    ]
+  },
+  {
+    "id": 20080,
+    "name": "Ugandian-Tanzanian",
+    "startYear": 1978,
+    "endYear": 1979,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "TZA",
+      "UGA",
+      "LBY"
+    ],
+    "casualties": 3000,
+    "description": "Ugandian-Tanzanian was a regional conflict fought between Tanzania and Uganda, Libya.",
+    "belligerents": {
+      "allies": [
+        "Tanzania"
+      ],
+      "adversaries": [
+        "Uganda",
+        "Libya"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": -6.051866,
+        "startLng": 34.959183,
+        "endLat": 1.972589,
+        "endLng": 32.948555,
+        "label": "Ugandian-Tanzanian"
+      },
+      {
+        "startLat": -6.051866,
+        "startLng": 34.959183,
+        "endLat": 26.638944,
+        "endLng": 18.011015,
+        "label": "Ugandian-Tanzanian"
+      }
+    ]
+  },
+  {
+    "id": 20081,
+    "name": "Sino-Vietnamese Punitive",
+    "startYear": 1979,
+    "endYear": 1979,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "CHN",
+      "VNM"
+    ],
+    "casualties": 21000,
+    "description": "Sino-Vietnamese Punitive was a regional conflict fought between China and Vietnam.",
+    "belligerents": {
+      "allies": [
+        "China"
+      ],
+      "adversaries": [
+        "Vietnam"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 32.498178,
+        "startLng": 106.337289,
+        "endLat": 21.715416,
+        "endLng": 105.387292,
+        "label": "Sino-Vietnamese Punitive"
+      }
+    ]
+  },
+  {
+    "id": 20082,
+    "name": "Iran-Iraq",
+    "startYear": 1980,
+    "endYear": 1988,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "IRN",
+      "IRQ"
+    ],
+    "casualties": 1250000,
+    "description": "Iran-Iraq was a regional conflict fought between Iran and Iraq.",
+    "belligerents": {
+      "allies": [
+        "Iran"
+      ],
+      "adversaries": [
+        "Iraq"
+      ]
+    },
+    "outcome": "6",
+    "arcs": [
+      {
+        "startLat": 32.166225,
+        "startLng": 54.931495,
+        "endLat": 33.09403,
+        "endLng": 43.26181,
+        "label": "Iran-Iraq"
+      }
+    ]
+  },
+  {
+    "id": 20083,
+    "name": "Falkland Islands",
+    "startYear": 1982,
+    "endYear": 1982,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "GBR",
+      "ARG"
+    ],
+    "casualties": 1001,
+    "description": "Falkland Islands was a regional conflict fought between United Kingdom and Argentina.",
+    "belligerents": {
+      "allies": [
+        "United Kingdom"
+      ],
+      "adversaries": [
+        "Argentina"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 54.402739,
+        "startLng": -2.116346,
+        "endLat": -33.501159,
+        "endLng": -64.173331,
+        "label": "Falkland Islands"
+      }
+    ]
+  },
+  {
+    "id": 20084,
+    "name": "War over Lebanon",
+    "startYear": 1982,
+    "endYear": 1982,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "ISR",
+      "SYR"
+    ],
+    "casualties": 1655,
+    "description": "War over Lebanon was a regional conflict fought between Israel and Syria.",
+    "belligerents": {
+      "allies": [
+        "Israel"
+      ],
+      "adversaries": [
+        "Syria"
+      ]
+    },
+    "outcome": "6",
+    "arcs": [
+      {
+        "startLat": 30.911148,
+        "startLng": 34.847915,
+        "endLat": 35.006636,
+        "endLng": 38.277783,
+        "label": "War over Lebanon"
+      }
+    ]
+  },
+  {
+    "id": 20085,
+    "name": "War over the Aouzou Strip",
+    "startYear": 1986,
+    "endYear": 1987,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "TCD",
+      "LBY"
+    ],
+    "casualties": 8000,
+    "description": "War over the Aouzou Strip was a regional conflict fought between Chad and Libya.",
+    "belligerents": {
+      "allies": [
+        "Chad"
+      ],
+      "adversaries": [
+        "Libya"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 15.142959,
+        "startLng": 18.645041,
+        "endLat": 26.638944,
+        "endLng": 18.011015,
+        "label": "War over the Aouzou Strip"
+      }
+    ]
+  },
+  {
+    "id": 20086,
+    "name": "Sino-Vietnamese Border War",
+    "startYear": 1987,
+    "endYear": 1987,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "CHN",
+      "VNM"
+    ],
+    "casualties": 4000,
+    "description": "Sino-Vietnamese Border War was a regional conflict fought between China and Vietnam.",
+    "belligerents": {
+      "allies": [
+        "China"
+      ],
+      "adversaries": [
+        "Vietnam"
+      ]
+    },
+    "outcome": "6",
+    "arcs": [
+      {
+        "startLat": 32.498178,
+        "startLng": 106.337289,
+        "endLat": 21.715416,
+        "endLng": 105.387292,
+        "label": "Sino-Vietnamese Border War"
+      }
+    ]
+  },
+  {
+    "id": 20087,
+    "name": "Gulf War",
+    "startYear": 1990,
+    "endYear": 1991,
+    "type": "world",
+    "era": "modern",
+    "countries": [
+      "KWT",
+      "USA",
+      "CAN",
+      "GBR",
+      "ITA",
+      "MAR",
+      "EGY",
+      "OMN",
+      "FRA",
+      "ARE",
+      "QAT",
+      "SAU",
+      "SYR",
+      "IRQ"
+    ],
+    "casualties": 41466,
+    "description": "Gulf War was a world conflict fought between Kuwait, United States of America, Canada and Iraq.",
+    "belligerents": {
+      "allies": [
+        "Kuwait",
+        "United States of America",
+        "Canada",
+        "United Kingdom",
+        "Italy",
+        "Morocco",
+        "Egypt",
+        "Oman",
+        "France",
+        "United Arab Emirates",
+        "Qatar",
+        "Saudi Arabia",
+        "Syria"
+      ],
+      "adversaries": [
+        "Iraq"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 29.413628,
+        "startLng": 47.313999,
+        "endLat": 33.09403,
+        "endLng": 43.26181,
+        "label": "Gulf War"
+      }
+    ]
+  },
+  {
+    "id": 20088,
+    "name": "Bosnian Independence",
+    "startYear": 1992,
+    "endYear": 1992,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "HRV"
+    ],
+    "casualties": 5240,
+    "description": "Bosnian Independence was a regional conflict fought between Croatia, Bosnia and Yugoslavia.",
+    "belligerents": {
+      "allies": [
+        "Croatia",
+        "Bosnia"
+      ],
+      "adversaries": [
+        "Yugoslavia"
+      ]
+    },
+    "outcome": "4",
+    "arcs": []
+  },
+  {
+    "id": 20089,
+    "name": "Azeri-Armenian",
+    "startYear": 1993,
+    "endYear": 1994,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "ARM",
+      "AZE"
+    ],
+    "casualties": 14000,
+    "description": "Azeri-Armenian was a regional conflict fought between Armenia and Azerbaijan.",
+    "belligerents": {
+      "allies": [
+        "Armenia"
+      ],
+      "adversaries": [
+        "Azerbaijan"
+      ]
+    },
+    "outcome": "2",
+    "arcs": [
+      {
+        "startLat": 40.459077,
+        "startLng": 44.800564,
+        "endLat": 40.402387,
+        "endLng": 47.210994,
+        "label": "Azeri-Armenian"
+      }
+    ]
+  },
+  {
+    "id": 20090,
+    "name": "Cenepa Valley",
+    "startYear": 1995,
+    "endYear": 1995,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "PER",
+      "ECU"
+    ],
+    "casualties": 1500,
+    "description": "Cenepa Valley was a regional conflict fought between Peru and Ecuador.",
+    "belligerents": {
+      "allies": [
+        "Peru"
+      ],
+      "adversaries": [
+        "Ecuador"
+      ]
+    },
+    "outcome": "3",
+    "arcs": [
+      {
+        "startLat": -12.976679,
+        "startLng": -72.90016,
+        "endLat": -1.259076,
+        "endLng": -78.188375,
+        "label": "Cenepa Valley"
+      }
+    ]
+  },
+  {
+    "id": 20091,
+    "name": "Badme Border",
+    "startYear": 1998,
+    "endYear": 2000,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "ERI",
+      "ETH"
+    ],
+    "casualties": 120000,
+    "description": "Badme Border was a regional conflict fought between Eritrea and Ethiopia.",
+    "belligerents": {
+      "allies": [
+        "Eritrea"
+      ],
+      "adversaries": [
+        "Ethiopia"
+      ]
+    },
+    "outcome": "6",
+    "arcs": [
+      {
+        "startLat": 15.787401,
+        "startLng": 38.285566,
+        "endLat": 8.032795,
+        "endLng": 39.0886,
+        "label": "Badme Border"
+      }
+    ]
+  },
+  {
+    "id": 20092,
+    "name": "War for Kosovo",
+    "startYear": 1999,
+    "endYear": 1999,
+    "type": "world",
+    "era": "modern",
+    "countries": [
+      "TUR",
+      "ITA",
+      "GBR",
+      "USA",
+      "NLD",
+      "FRA",
+      "DEU"
+    ],
+    "casualties": 5002,
+    "description": "War for Kosovo was a world conflict fought between Turkey, Italy, United Kingdom and Yugoslavia.",
+    "belligerents": {
+      "allies": [
+        "Turkey",
+        "Italy",
+        "United Kingdom",
+        "United States of America",
+        "Netherlands",
+        "France",
+        "Germany"
+      ],
+      "adversaries": [
+        "Yugoslavia"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 44.732482,
+        "endLng": 11.076907,
+        "label": "War for Kosovo"
+      },
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 54.402739,
+        "endLng": -2.116346,
+        "label": "War for Kosovo"
+      },
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 39.538479,
+        "endLng": -97.482602,
+        "label": "War for Kosovo"
+      },
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 52.422211,
+        "endLng": 5.61144,
+        "label": "War for Kosovo"
+      },
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 46.696113,
+        "endLng": 2.552275,
+        "label": "War for Kosovo"
+      },
+      {
+        "startLat": 39.345388,
+        "startLng": 34.508268,
+        "endLat": 50.961733,
+        "endLng": 9.678348,
+        "label": "War for Kosovo"
+      }
+    ]
+  },
+  {
+    "id": 20093,
+    "name": "Kargil War",
+    "startYear": 1999,
+    "endYear": 1999,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "IND",
+      "PAK"
+    ],
+    "casualties": 1172,
+    "description": "Kargil War was a regional conflict fought between India and Pakistan.",
+    "belligerents": {
+      "allies": [
+        "India"
+      ],
+      "adversaries": [
+        "Pakistan"
+      ]
+    },
+    "outcome": "1",
+    "arcs": [
+      {
+        "startLat": 22.686852,
+        "startLng": 79.358105,
+        "endLat": 29.328389,
+        "endLng": 68.545632,
+        "label": "Kargil War"
+      }
+    ]
+  },
+  {
+    "id": 20094,
+    "name": "Invasion of Afghanistan",
+    "startYear": 2001,
+    "endYear": 2001,
+    "type": "world",
+    "era": "modern",
+    "countries": [
+      "CAN",
+      "FRA",
+      "GBR",
+      "USA",
+      "AUS",
+      "AFG"
+    ],
+    "casualties": 4002,
+    "description": "Invasion of Afghanistan was a world conflict fought between Canada, France, United Kingdom and Afghanistan.",
+    "belligerents": {
+      "allies": [
+        "Canada",
+        "France",
+        "United Kingdom",
+        "United States of America",
+        "Australia"
+      ],
+      "adversaries": [
+        "Afghanistan"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": 60.324287,
+        "startLng": -101.9107,
+        "endLat": 34.164262,
+        "endLng": 66.496586,
+        "label": "Invasion of Afghanistan"
+      }
+    ]
+  },
+  {
+    "id": 20095,
+    "name": "Invasion of Iraq",
+    "startYear": 2003,
+    "endYear": 2003,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "AUS",
+      "GBR",
+      "USA",
+      "IRQ"
+    ],
+    "casualties": 7173,
+    "description": "Invasion of Iraq was a regional conflict fought between Australia, United Kingdom, United States of America and Iraq.",
+    "belligerents": {
+      "allies": [
+        "Australia",
+        "United Kingdom",
+        "United States of America"
+      ],
+      "adversaries": [
+        "Iraq"
+      ]
+    },
+    "outcome": "4",
+    "arcs": [
+      {
+        "startLat": -24.129522,
+        "startLng": 134.04972,
+        "endLat": 33.09403,
+        "endLng": 43.26181,
+        "label": "Invasion of Iraq"
+      }
+    ]
+  }
+]

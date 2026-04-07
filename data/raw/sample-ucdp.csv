@@ -1,0 +1,3 @@
+conflict_id,conflict_name,year,type_of_conflict,side_a,side_b,best,location
+100,Sample Interstate Conflict,1990,2,"United States","Iraq",25000,"United States; Iraq"
+101,Sample Civil Conflict,2012,3,"Syria","Syrian Opposition",9000,"Syria"

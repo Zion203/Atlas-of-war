@@ -1,0 +1,3 @@
+war_number,war_name,start_year,end_year,war_type,side_a_names,side_b_names,battle_deaths
+1,Sample Interstate War,1853,1856,Inter-state,"Russian Empire","Ottoman Empire; Great Britain; France",650000
+2,Sample Colonial War,1899,1902,Extra-state,"United Kingdom","Boer Republics",75000

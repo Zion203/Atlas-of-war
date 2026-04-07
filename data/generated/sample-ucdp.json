@@ -1,0 +1,57 @@
+[
+  {
+    "id": 10001,
+    "name": "Sample Interstate Conflict",
+    "startYear": 1990,
+    "endYear": 1990,
+    "type": "regional",
+    "era": "modern",
+    "countries": [
+      "USA",
+      "IRQ"
+    ],
+    "casualties": 25000,
+    "description": "Sample Interstate Conflict was a regional conflict fought between United States and Iraq.",
+    "belligerents": {
+      "allies": [
+        "United States"
+      ],
+      "adversaries": [
+        "Iraq"
+      ]
+    },
+    "outcome": "",
+    "arcs": [
+      {
+        "startLat": 39.538479,
+        "startLng": -97.482602,
+        "endLat": 33.09403,
+        "endLng": 43.26181,
+        "label": "Sample Interstate Conflict"
+      }
+    ]
+  },
+  {
+    "id": 10002,
+    "name": "Sample Civil Conflict",
+    "startYear": 2012,
+    "endYear": 2012,
+    "type": "civil",
+    "era": "modern",
+    "countries": [
+      "SYR"
+    ],
+    "casualties": 9000,
+    "description": "Sample Civil Conflict was a civil conflict fought between Syria and Syrian Opposition.",
+    "belligerents": {
+      "allies": [
+        "Syria"
+      ],
+      "adversaries": [
+        "Syrian Opposition"
+      ]
+    },
+    "outcome": "",
+    "arcs": []
+  }
+]
