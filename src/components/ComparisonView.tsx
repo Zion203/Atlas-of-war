@@ -95,8 +95,12 @@ export default function ComparisonView() {
                     Combatants
                   </span>
                   <div className="space-y-2">
-                    <p className="text-[#e6e4df] text-xs"><span className="opacity-50">Faction A:</span> {war.belligerents.allies.join(', ')}</p>
-                    <p className="text-[#e6e4df] text-xs"><span className="opacity-50">Faction B:</span> {war.belligerents.adversaries.join(', ')}</p>
+                    <p className="text-[#e6e4df] text-xs">
+                      <span className="opacity-50">Faction A:</span> {war.belligerents?.allies.join(', ') || 'N/A'}
+                    </p>
+                    <p className="text-[#e6e4df] text-xs">
+                      <span className="opacity-50">Faction B:</span> {war.belligerents?.adversaries.join(', ') || 'N/A'}
+                    </p>
                   </div>
                 </div>
 
@@ -114,7 +118,7 @@ export default function ComparisonView() {
                     Resolution
                   </span>
                   <p className="text-[#e6e4df] text-xs font-headline italic">
-                    "{war.outcome}"
+                    "{war.outcome || 'Strategic details pending archival retrieval...'}"
                   </p>
                 </div>
               </div>

@@ -59,7 +59,7 @@ export function searchWars(wars: War[], query: string): War[] {
   return wars.filter(
     (w) =>
       w.name.toLowerCase().includes(q) ||
-      w.description.toLowerCase().includes(q) ||
+      (w.description?.toLowerCase().includes(q) ?? false) ||
       w.countries.some((c) => c.toLowerCase().includes(q))
   );
 }

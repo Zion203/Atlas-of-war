@@ -79,7 +79,7 @@ export default function SearchBar() {
                           {w.name}
                         </h4>
                         <p className="text-sm text-[#9a9996] truncate font-light">
-                          {w.description}
+                          {w.description || 'Historical intelligence pending...'}
                         </p>
                       </div>
                       <div className="text-right flex-shrink-0">
